@@ -1,136 +1,107 @@
-import os
-import sys
 import requests
-import re
 import json
+import re
+from urllib.parse import quote
 
-m3u_content = "#EXTM3U\n"
-total_all_channels = 0
-
-if not os.path.exists('Portal.txt'):
-    print("Error: File Portal.txt tidak ditemukan!")
-    sys.exit(1)
-
-with open('Portal.txt', 'r') as f:
-    lines = [line.strip() for line in f if line.strip()]
-
-if not lines:
-    print("Error: File Portal.txt kosong!")
-    sys.exit(1)
-
-print(f"Membaca {len(lines)} akun MAC Portal dari file...")
-
-for index, account in enumerate(lines, start=1):
-    if '|' not in account:
-        print(f"Skipping baris {index}: Format salah")
-        continue
-        
-    PORTAL_URL, MAC_ADDRESS = account.split('|', 1)
-    PORTAL_URL = PORTAL_URL.strip()
-    MAC_ADDRESS = MAC_ADDRESS.strip()
+def main():
+    print("Sedang mengambil data dari portal...")
     
-    print(f"\n[{index}/{len(lines)}] Memproses: {PORTAL_URL}")
+    # 1. ATUR ALAMAT PORTAL DAN MAC ADDRESS ANDA DI SINI
+    portal_url = "http://alamat-portal-anda.com:8080"  # Ganti dengan URL portal asli Anda
+    mac_address = "00:1A:79:XX:XX:XX"                  # Ganti dengan MAC address Anda
     
-    if '/c/' in PORTAL_URL:
-        base_url = PORTAL_URL.split('/c/')[0]
-    else:
-        base_url = PORTAL_URL.rstrip('/')
-        
-    api_url = f"{base_url}/server/load.php"
-    
+    # Bersihkan slash di ujung URL portal jika ada
+    portal_url = portal_url.rstrip('/')
+
     headers = {
-        'User-Agent': 'Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbid/000000000000000000000000000000000000',
-        'Cookie': f'mac={MAC_ADDRESS}; stb_lang=en; timezone=Europe%2FParis;',
-        'Referer': f"{base_url}/c/",
-        'Accept': '*/*',
-        'Connection': 'keep-alive'
+        "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/",
+        "Cookie": f"mac={mac_address}"
     }
-    
+
     try:
-        # Handshake Token
-        handshake_url = f"{api_url}?type=stb&action=handshake&token="
-        response = requests.get(handshake_url, headers=headers, timeout=12)
-        if response.status_code == 200:
+        # 2. Proses Handshake & Pembuatan Token Sesi
+        handshake_url = f"{portal_url}/server/load.php?type=stb&action=handshake"
+        req_handshake = requests.get(handshake_url, headers=headers, timeout=15)
+        
+        token = ""
+        if req_handshake.status_code == 200:
             try:
-                token = response.json().get('js', {}).get('token', '')
+                res_json = req_handshake.json()
+                token = res_json.get("js", {}).get("token", "")
                 if token:
-                    headers['Authorization'] = f"Bearer {token}"
-                    print("-> Autentikasi Berhasil!")
+                    headers["Authorization"] = f"Bearer {token}"
             except:
                 pass
 
-        # Tarik data siaran
-        channels_url = f"{api_url}?type=itv&action=get_all_channels"
-        res = requests.get(channels_url, headers=headers, timeout=15)
-        raw_text = res.text
+        # 3. Request daftar channel dari API Portal
+        channel_url = f"{portal_url}/server/load.php?type=itv&action=get_all_channels"
+        response = requests.get(channel_url, headers=headers, timeout=15)
         
-        count = 0
+        if response.status_code != 200:
+            print(f"Gagal memuat portal. Status kode: {response.status_code}")
+            return
+            
+        data = response.json()
+        channels = data.get("js", {}).get("data", [])
         
-        # METODE 1: Membaca secara JSON (Lebih Akurat untuk Logo)
-        try:
-            data = json.loads(raw_text)
-            channels_list = data.get('js', [])
-            if isinstance(channels_list, dict):
-                channels_list = list(channels_list.values())
-                
-            if isinstance(channels_list, list) and len(channels_list) > 0:
-                for ch in channels_list:
-                    if isinstance(ch, dict):
-                        name = ch.get('name', 'Unknown Channel')
-                        cmd = ch.get('cmd', '')
-                        ch_id = ch.get('id', '')
-                        ch_group = ch.get('tv_genre_name', f'Portal_{index}')
-                        logo = ch.get('logo', '')
-                        
-                        stream_url = ""
-                        if cmd:
-                            stream_url = str(cmd).replace('\\', '')
-                            link_match = re.search(r'(http[s]?://\S+)', stream_url)
-                            if link_match:
-                                stream_url = link_match.group(1).replace('"', '').replace("'", "")
-                            else:
-                                if "localhost" in stream_url or "/" in stream_url:
-                                    clean_cmd = stream_url.split('/')[-1]
-                                    stream_url = f"{base_url}/play/live.php?mac={MAC_ADDRESS}&stream={clean_cmd}"
-                        
-                        if not stream_url:
-                            stream_url = f"{base_url}/playlist/live/{ch_id}.ts"
-                            
-                        logo_url = ""
-                        if logo:
-                            logo_url = logo if str(logo).startswith('http') else f"{base_url}/misc/logos/320/{logo}"
-                        
-                        if logo_url:
-                            m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo_url}" group-title="{ch_group}",{name}\n{stream_url}\n'
-                        else:
-                            m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" group-title="{ch_group}",{name}\n{stream_url}\n'
-                        count += 1
-        except:
-            pass
+        if not channels:
+            channels = data.get("js", []) if isinstance(data.get("js"), list) else []
 
-        # METODE FALLBACK 2: Regular Expression (Jika JSON Gagal, dipastikan Channel Tetap Keluar)
-        if count == 0:
-            matches = re.findall(r'"name"\s*:\s*"([^"]+)"[^}]+?"cmd"\s*:\s*"([^"]+)"', raw_text)
-            if matches:
-                for name, cmd in matches:
-                    stream_url = cmd.replace('\\', '')
-                    link_match = re.search(r'(http[s]?://\S+)', stream_url)
-                    if link_match:
-                        stream_url = link_match.group(1).replace('"', '').replace("'", "")
-                    else:
-                        clean_cmd = stream_url.split('/')[-1]
-                        stream_url = f"{base_url}/play/live.php?mac={MAC_ADDRESS}&stream={clean_cmd}"
-                    
-                    m3u_content += f'#EXTINF:-1 group-title="Portal_{index}",{name}\n{stream_url}\n'
-                    count += 1
-                
-        print(f"-> Sukses mengekstrak {count} channel dari akun ini.")
-        total_all_channels += count
+        if not channels:
+            print("Tidak ada channel yang ditemukan.")
+            return
+
+        # 4. Bangun isi file M3U yang kompatibel dengan OTT Navigator
+        m3u_content = "#EXTM3U\n"
+        
+        for ch in channels:
+            name = ch.get("name", "Unknown Channel")
+            ch_id = ch.get("id", "")
+            
+            # Ekstrak atau bangun Link Streaming
+            cmd = ch.get("cmd", "")
+            stream_url = ""
+            if "http" in cmd:
+                match = re.search(r'(https?://[^\s"\']+)', cmd)
+                stream_url = match.group(1) if match else cmd
+            else:
+                stream_url = f"{portal_url}/itv/{ch_id}"
+
+            # --- PERBAIKAN LOGO DENGAN ALAMAT MAC PORTAL ---
+            # Ambil properti gambar bawaan dari database portal
+            logo_file = ch.get("logo", ch.get("tvg_logo", ch.get("icon", "")))
+            logo_url = ""
+            
+            if logo_file:
+                if logo_file.startswith("http"):
+                    logo_url = logo_file
+                else:
+                    # Gabungkan file logo dengan direktori bawaan server MAC Portal Anda
+                    logo_url = f"{portal_url}/misc/logos/{logo_file}"
+            else:
+                # STRATEGI FALLBACK: Jika portal kosong, buat generator logo otomatis berbasis teks/nama channel
+                # Ini memastikan OTT Navigator tetap menampilkan icon visual unik alih-alih kotak kosong biasa
+                encoded_name = quote(name)
+                logo_url = f"https://ui-avatars.com{encoded_name}&background=random&color=fff&size=256&font-size=0.33"
+
+            group_title = ch.get("tvg_genre", "Lainnya")
+
+            # Format tag M3U spesifik yang sangat disukai oleh parser OTT Navigator
+            m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{group_title}",{name}\n'
+            
+            # Tambahkan header user-agent dan cookie agar OTT Navigator dapat menembus keamanan portal saat memutar video
+            m3u_content += f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}\n'
+            m3u_content += f'#EXTVLCOPT:http-cookie=mac={mac_address}\n'
+            m3u_content += f'{stream_url}\n'
+
+        # 5. Ekspor data ke file playlist.m3u
+        with open("playlist.m3u", "w", encoding="utf-8") as file:
+            file.write(m3u_content)
+
+        print("Berhasil! File 'playlist.m3u' dioptimalkan untuk OTT Navigator beserta sistem logonya.")
 
     except Exception as e:
-        print(f"-> Gagal memproses: {e}")
-        continue
+        print(f"Terjadi kesalahan saat memproses skrip: {e}")
 
-print(f"\nSelesai! Total keseluruhan: {total_all_channels} channel berhasil dikumpulkan.")
-with open('playlist.m3u', 'w', encoding='utf-8') as f:
-    f.write(m3u_content)
+if __name__ == "__main__":
+    main()
