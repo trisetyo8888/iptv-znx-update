@@ -36,23 +36,39 @@ def main():
                 pass
 
         # ========================================================
-        # 3. AMBIL DAFTAR KATEGORI (PENTING UNTUK FOLDER M3U)
+        # 3. MENGAMBIL DAFTAR KATEGORI (MENDUKUNG MULTI-ACTION: get_genres & get_categories)
         # ========================================================
         category_map = {}
-        cat_url = f"{portal_url}/server/load.php?type=itv&action=get_categories"
-        try:
-            cat_response = requests.get(cat_url, headers=headers, timeout=15)
-            if cat_response.status_code == 200:
-                cat_data = cat_response.json()
-                cat_list = cat_data.get("js", [])
-                if isinstance(cat_list, list):
-                    for cat in cat_list:
-                        cat_id = str(cat.get("id", ""))
-                        cat_name = cat.get("title", cat.get("name", "Lainnya"))
-                        if cat_id:
-                            category_map[cat_id] = cat_name
-        except Exception as ex:
-            print(f"Gagal memuat kategori otomatis, fallback ke mode dasar: {ex}")
+        
+        # Coba cara pertama: Menggunakan get_genres (Standar Stalker IPTV)
+        cat_actions = ["get_genres", "get_categories"]
+        cat_loaded = False
+        
+        for action in cat_actions:
+            if cat_loaded:
+                break
+            cat_url = f"{portal_url}/server/load.php?type=itv&action={action}"
+            try:
+                cat_response = requests.get(cat_url, headers=headers, timeout=15)
+                if cat_response.status_code == 200:
+                    cat_data = cat_response.json()
+                    cat_list = cat_data.get("js", [])
+                    
+                    # Jika response dibungkus data objek lagi
+                    if isinstance(cat_list, dict) and "data" in cat_list:
+                        cat_list = cat_list.get("data", [])
+                        
+                    if isinstance(cat_list, list) and len(cat_list) > 0:
+                        for cat in cat_list:
+                            cat_id = str(cat.get("id", cat.get("number", "")))
+                            # Mengambil nama folder dari key 'title' atau 'name'
+                            cat_name = cat.get("title", cat.get("name", "")).strip()
+                            if cat_id and cat_name:
+                                category_map[cat_id] = cat_name
+                        print(f"Berhasil memuat {len(category_map)} kategori via '{action}'.")
+                        cat_loaded = True
+            except Exception as e:
+                print(f"Gagal memuat via {action}, mencoba fallback berikutnya...")
 
         # ========================================================
         # 4. REQUEST SELURUH DAFTAR CHANNEL LIVE
@@ -74,7 +90,7 @@ def main():
             return
 
         # ========================================================
-        # 5. BANGUN PLAYLIST M3U YANG HINGGA STRUKTUR FOLDER & LOGO
+        # 5. BANGUN PLAYLIST M3U DENGAN COCOK FOLDER KATEGORI & LOGO
         # ========================================================
         m3u_content = "#EXTM3U\n"
         
@@ -82,8 +98,15 @@ def main():
             name = ch.get("name", "Unknown Channel").strip()
             ch_id = ch.get("id", "")
             
-            # Memetakan folder kategori berdasarkan ID kategori
-            ch_cat_id = str(ch.get("tvg_id", ch.get("category_id", ch.get("ch_id", ""))))
+            # --- DETEKSI KUNCI ID KATEGORI PADA DATA CHANNEL ---
+            # Menguji semua kemungkinan variabel pencocokan kategori di database Stalker
+            ch_cat_id = ""
+            for key in ["tv_genre_id", "tvg_id", "category_id", "ch_id"]:
+                if key in ch and ch.get(key):
+                    ch_cat_id = str(ch.get(key))
+                    break
+            
+            # Tentukan nama folder, jika ID cocok, ambil dari map. Jika tidak, gunakan nama asal
             group_title = category_map.get(ch_cat_id, "Lainnya")
             
             # Memproses Link Streaming
@@ -100,22 +123,19 @@ def main():
             logo_url = ""
             
             if logo_file:
-                # Jika link sudah berbentuk URL utuh http/https
                 if logo_file.startswith("http"):
                     logo_url = logo_file
                 else:
-                    # Beberapa portal menyertakan folder custom, atau langsung file mentah
                     logo_file_clean = logo_file.lstrip('/')
                     logo_url = f"{portal_url}/misc/logos/{logo_file_clean}"
             else:
-                # FALLBACK LOGO: Membuat teks avatar dinamis jika server portal kosong
                 encoded_name = quote(name)
                 logo_url = f"https://ui-avatars.com{encoded_name}&background=random&color=fff&size=256&font-size=0.35"
 
-            # Menulis format metadata M3U standar yang dibaca penuh oleh OTT Navigator
+            # Tulis metadata ke baris M3U
             m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo_url}" group-title="{group_title}",{name}\n'
             
-            # Menyuntikkan User Agent & Cookie MAC agar OTT Navigator bisa menembus proteksi portal
+            # Tambahkan konfigurasi pembacaan MAC & User agent untuk OTT Navigator
             m3u_content += f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}\n'
             m3u_content += f'#EXTVLCOPT:http-cookie=mac={mac_address}\n'
             m3u_content += f'{stream_url}\n'
@@ -126,7 +146,7 @@ def main():
         with open("playlist.m3u", "w", encoding="utf-8") as file:
             file.write(m3u_content)
 
-        print("Berhasil! File 'playlist.m3u' kini sudah terbagi dalam folder kategori dan logonya aktif.")
+        print("Proses Berhasil! Folder kategori dan logo telah dipetakan ulang dengan benar.")
 
     except Exception as e:
         print(f"Terjadi kegagalan pemrosesan data: {e}")
