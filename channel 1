@@ -1,7 +1,17 @@
+#EXTM3U
+# ==========================================
+# TYPE: MAC Portal to M3U8 Conversion (AKUN 1)
+# GENERATED: 2026-10-14 05:55:14
+# ==========================================
+
+#EXTINF:-1 tvg-id="1178456" tvg-name="####### BEIN SPORTS ᴴᴰ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178456.png" group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴴᴰ #######
+
+#EXTM3U
 #EXTINF:-1 tvg-id="1178456" tvg-name="####### BEIN SPORTS ᴴᴰ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178456.png" group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴴᴰ #######
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178456&extension=ts&play_token=i90Q9Ei259
+
 #EXTINF:-1 tvg-id="1178455" tvg-name="8K - BEIN SPORTS NEWS ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178455.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
@@ -90,3 +100,333 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178435&extensio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178434&extension=ts&play_token=hPKWr5yj2O
+
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="1178419" tvg-name="####### BEIN SPORTS LQ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178419.png" group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS LQ #######
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178419&extension=ts&play_token=KZmQFqbtd3
+
+#EXTINF:-1 tvg-id="1178418" tvg-name="8K - BEIN SPORTS NEWS LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178418.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178418&extension=ts&play_token=VVTlMsmpGU
+#EXTINF:-1 tvg-id="1178417" tvg-name="8K - BEIN SPORTS GLOBAL LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/1178417.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178417&extension=ts&play_token=xjaGqUwQq9
+#EXTINF:-1 tvg-id="1178416" tvg-name="8K - BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178416.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178416&extension=ts&play_token=Qjrk2Hc7CK
+#EXTINF:-1 tvg-id="1178415" tvg-name="8K - BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178415.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178415&extension=ts&play_token=sqDLy9FHMZ
+#EXTINF:-1 tvg-id="1178414" tvg-name="8K - BEIN SPORTS 3 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178414.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178414&extension=ts&play_token=fcVVVgJvbX
+#EXTINF:-1 tvg-id="1178413" tvg-name="8K - BEIN SPORTS 4 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178413.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178413&extension=ts&play_token=ucS0TFOSPa
+#EXTINF:-1 tvg-id="1178412" tvg-name="8K - BEIN SPORTS 5 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178412.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178412&extension=ts&play_token=9zsp5Inu6X
+#EXTINF:-1 tvg-id="1178411" tvg-name="8K - BEIN SPORTS 6 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178411.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178411&extension=ts&play_token=au5XrAeUtW
+#EXTINF:-1 tvg-id="1178410" tvg-name="8K - BEIN SPORTS 7 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178410.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178410&extension=ts&play_token=8uWrcdhSnU
+#EXTINF:-1 tvg-id="1178409" tvg-name="8K - BEIN SPORTS 8 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178409.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178409&extension=ts&play_token=rAIHYFE9iz
+#EXTINF:-1 tvg-id="1178408" tvg-name="8K - BEIN SPORTS 9 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178408.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178408&extension=ts&play_token=micknQ5oWj
+
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="1178404" tvg-name="####### BEIN SPORTS ʰᵉᵛᶜ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178404.png" group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ʰᵉᵛᶜ #######
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178404&extension=ts&play_token=OMu0Ki0ScX
+
+#EXTINF:-1 tvg-id="1178403" tvg-name="8K - BEIN SPORTS 1 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178403.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178403&extension=ts&play_token=O4bqqMvopf
+#EXTINF:-1 tvg-id="1178402" tvg-name="8K - BEIN SPORTS 2 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178402.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178402&extension=ts&play_token=wXc6sK5fcy
+#EXTINF:-1 tvg-id="1178401" tvg-name="8K - BEIN SPORTS 3 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178401.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178401&extension=ts&play_token=f7wR1DINwc
+#EXTINF:-1 tvg-id="1178400" tvg-name="8K - BEIN SPORTS 4 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178400.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178400&extension=ts&play_token=HfdcnJ7avu
+#EXTINF:-1 tvg-id="1178399" tvg-name="8K - BEIN SPORTS 5 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178399.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178399&extension=ts&play_token=1ox1q4ry84
+#EXTINF:-1 tvg-id="1178398" tvg-name="8K - BEIN SPORTS 6 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178398.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178398&extension=ts&play_token=XldaJWqc5c
+#EXTINF:-1 tvg-id="1178397" tvg-name="8K - BEIN SPORTS 7 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178397.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178397&extension=ts&play_token=HPLdkip6G6
+#EXTINF:-1 tvg-id="1178396" tvg-name="8K - BEIN SPORTS 8 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178396.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178396&extension=ts&play_token=rT9Y3gMBhY
+#EXTINF:-1 tvg-id="1178395" tvg-name="8K - BEIN SPORTS 9 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178395.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178395&extension=ts&play_token=FkRwQI5byV
+#EXTINF:-1 tvg-id="1178394" tvg-name="8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178394.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178394&extension=ts&play_token=34zoF4QiV5
+#EXTINF:-1 tvg-id="1178393" tvg-name="8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178393.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178393&extension=ts&play_token=ykpf1Z3owF
+#EXTINF:-1 tvg-id="1178392" tvg-name="8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178392.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178392&extension=ts&play_token=CDKYnmkyQl
+#EXTINF:-1 tvg-id="1178391" tvg-name="8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178391.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178391&extension=ts&play_token=jrwOxr80ae
+#EXTINF:-1 tvg-id="1178390" tvg-name="8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178390.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178390&extension=ts&play_token=DavoEJxqOs
+
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="1178389" tvg-name="####### BEIN SPORTS ᴿᴬᵂ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178389.png" group-title="|AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴿᴬᵂ #######
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178389&extension=ts&play_token=YisWzJGkrL
+
+#EXTINF:-1 tvg-id="1178388" tvg-name="8K - BEIN SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178388.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178388&extension=ts&play_token=YMKgwHm7xk
+#EXTINF:-1 tvg-id="1178387" tvg-name="8K - BEIN SPORTS GLOBAL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/bein/1178387.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178387&extension=ts&play_token=2Hxd7G17j7
+#EXTINF:-1 tvg-id="1178386" tvg-name="8K - BEIN SPORTS 1 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178386.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178386&extension=ts&play_token=ObVgjQt7qu
+#EXTINF:-1 tvg-id="1178385" tvg-name="8K - BEIN SPORTS 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178385.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178385&extension=ts&play_token=dIHy68R54l
+#EXTINF:-1 tvg-id="1178384" tvg-name="8K - BEIN SPORTS 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178384.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178384&extension=ts&play_token=MagLibrO5d
+#EXTINF:-1 tvg-id="1178383" tvg-name="8K - BEIN SPORTS 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178383.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178383&extension=ts&play_token=XVtGixKF43
+#EXTINF:-1 tvg-id="1178382" tvg-name="8K - BEIN SPORTS 5 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178382.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178382&extension=ts&play_token=NTJZ96aOMH
+#EXTINF:-1 tvg-id="1178381" tvg-name="8K - BEIN SPORTS 6 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178381.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178381&extension=ts&play_token=h7adOkps5S
+#EXTINF:-1 tvg-id="1178380" tvg-name="8K - BEIN SPORTS 7 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178380.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178380&extension=ts&play_token=tkT8H9RbnI
+#EXTINF:-1 tvg-id="1178379" tvg-name="8K - BEIN SPORTS 8 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178379.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178379&extension=ts&play_token=01xK4Nn0RQ
+#EXTINF:-1 tvg-id="1178378" tvg-name="8K - BEIN SPORTS 9 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178378.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178378&extension=ts&play_token=uAxcmuzKQk
+#EXTINF:-1 tvg-id="1178377" tvg-name="8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178377.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178377&extension=ts&play_token=MpBf2IQMq9
+#EXTINF:-1 tvg-id="1178376" tvg-name="8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178376.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178376&extension=ts&play_token=uZHtbc84vA
+#EXTINF:-1 tvg-id="1178375" tvg-name="8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178375.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178375&extension=ts&play_token=ctL4kAjtX5
+#EXTINF:-1 tvg-id="1178374" tvg-name="8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178374.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178374&extension=ts&play_token=Zqv7IbqhZ1
+#EXTINF:-1 tvg-id="1178373" tvg-name="8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178373.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178373&extension=ts&play_token=JipCJaReXi
+#EXTINF:-1 tvg-id="1178372" tvg-name="8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178372.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178372&extension=ts&play_token=VYYYXR5V92
+#EXTINF:-1 tvg-id="1178371" tvg-name="8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178371.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178371&extension=ts&play_token=aKfiZjtWG0
+#EXTINF:-1 tvg-id="1178370" tvg-name="8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178370.png" group-title="|AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1178370&extension=ts&play_token=EWv83W3HWO
+#EXTINF:-1 tvg-id="1016905" tvg-name="BEIN SPORTS NEWS ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016905.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016905&extension=ts&play_token=2XhUVlXfv4
+
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="1016906" tvg-name="BEIN SPORTS GLOBAL ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016906.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016906&extension=ts&play_token=mviJ68UEPa
+
+#EXTINF:-1 tvg-id="1016907" tvg-name="BEIN SPORTS1 ᵁᴴᴰ8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016907.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS1 ᵁᴴᴰ8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016907&extension=ts&play_token=CvyOvJdnHA
+#EXTINF:-1 tvg-id="1016908" tvg-name="BEIN SPORTS2 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016908.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS2 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016908&extension=ts&play_token=GBrWEE5FO9
+#EXTINF:-1 tvg-id="1016909" tvg-name="BEIN SPORTS3 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016909.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS3 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016909&extension=ts&play_token=AQspRSSdmS
+#EXTINF:-1 tvg-id="1016910" tvg-name="BEIN SPORTS4 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016910.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS4 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016910&extension=ts&play_token=5Yb1tgaBlr
+#EXTINF:-1 tvg-id="1016911" tvg-name="BEIN SPORTS5 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016911.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS5 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016911&extension=ts&play_token=QQaYBBQGoU
+#EXTINF:-1 tvg-id="1016912" tvg-name="BEIN SPORTS6 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016912.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS6 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016912&extension=ts&play_token=ZZmKfG5BTx
+#EXTINF:-1 tvg-id="1016913" tvg-name="BEIN SPORTS7 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016913.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS7 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016913&extension=ts&play_token=oo6gAyrnVV
+#EXTINF:-1 tvg-id="1016914" tvg-name="BEIN SPORTS8 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016914.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS8 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016914&extension=ts&play_token=ddYUuuYF0h
+#EXTINF:-1 tvg-id="1016915" tvg-name="BEIN SPORTS9 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016915.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS9 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016915&extension=ts&play_token=OCF63YJ0qP
+#EXTINF:-1 tvg-id="1016918" tvg-name="BEIN SPORTS XTRA1 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016918.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016918&extension=ts&play_token=ERr9CTFBiy
+#EXTINF:-1 tvg-id="1016919" tvg-name="BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016919.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016919&extension=ts&play_token=vJJLyLuJat
+#EXTINF:-1 tvg-id="1016920" tvg-name="BEIN SPORTS 1 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016920.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 1 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016920&extension=ts&play_token=9B0DdnOeF2
+#EXTINF:-1 tvg-id="1016921" tvg-name="BEIN SPORTS 2 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016921.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 2 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016921&extension=ts&play_token=NjYE9trJza
+#EXTINF:-1 tvg-id="1016922" tvg-name="BEIN SPORTS 3 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016922.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 3 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016922&extension=ts&play_token=7mr9sHpQ3L
+#EXTINF:-1 tvg-id="1016923" tvg-name="BEIN SPORTS 4 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016923.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 4 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016923&extension=ts&play_token=yiAw8zidGV
+#EXTINF:-1 tvg-id="1016924" tvg-name="BEIN SPORTS 5 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016924.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 5 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016924&extension=ts&play_token=KWaqQ5rJMs
+#EXTINF:-1 tvg-id="1016925" tvg-name="BEIN SPORTS 6 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016925.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 6 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016925&extension=ts&play_token=rW48uKvBlZ
+#EXTINF:-1 tvg-id="1016926" tvg-name="BEIN SPORTS 7 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016926.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 7 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016926&extension=ts&play_token=QTXKySOn4A
+#EXTINF:-1 tvg-id="1016927" tvg-name="BEIN SPORTS 8 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016927.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 8 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016927&extension=ts&play_token=2BuEWbmPy3
+#EXTINF:-1 tvg-id="1016928" tvg-name="BEIN SPORTS 9 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016928.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 9 ᵁᴴᴰ 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016928&extension=ts&play_token=wdGNRp4xBl
+#EXTINF:-1 tvg-id="1016929" tvg-name="BEIN SPORTS 1 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016929.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 1 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016929&extension=ts&play_token=HKPgwQHbLS
+#EXTINF:-1 tvg-id="1016930" tvg-name="BEIN SPORTS 2 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016930.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 2 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016930&extension=ts&play_token=tD9qnzEHRd
+#EXTINF:-1 tvg-id="1016931" tvg-name="BEIN SPORTS 3 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016931.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 3 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016931&extension=ts&play_token=oE46SQ2yLQ
+#EXTINF:-1 tvg-id="1016932" tvg-name="BEIN SPORTS 4 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016932.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 4 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016932&extension=ts&play_token=6IgrovBg21
+#EXTINF:-1 tvg-id="1016933" tvg-name="BEIN SPORTS 5 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016933.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 5 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016933&extension=ts&play_token=OeNNeUImvg
+#EXTINF:-1 tvg-id="1016934" tvg-name="BEIN SPORTS 6 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016934.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 6 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016934&extension=ts&play_token=00JzI2I3WT
+#EXTINF:-1 tvg-id="1016935" tvg-name="BEIN SPORTS 7 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016935.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 7 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016935&extension=ts&play_token=X0PQjGm59q
+#EXTINF:-1 tvg-id="1016936" tvg-name="BEIN SPORTS 8 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016936.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 8 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016936&extension=ts&play_token=Hrv3ged26t
+#EXTINF:-1 tvg-id="1016937" tvg-name="BEIN SPORTS 9 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016937.png" group-title="|AR| BEIN SPORTS G",BEIN SPORTS 9 Gᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:E8:34:45
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:E8:34:45&stream=1016937&extension=ts&play_token=3oH7mjEE8h
+
+
