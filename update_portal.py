@@ -9,8 +9,8 @@ def main():
     # ========================================================
     # 1. ATUR KREDENSIAL PORTAL ANDA DI SINI
     # ========================================================
-    portal_url = "http://simpletv.uk/c/"  # Ganti dengan URL portal asli Anda
-    mac_address = "A0:BB:3E:0B:2A:B6"                  # Ganti dengan MAC address Anda
+    portal_url = "http://dinoon.sbs/c/"  # Ganti dengan URL portal asli Anda
+    mac_address = "00:1A:79:E8:34:45"                  # Ganti dengan MAC address Anda
     
     portal_url = portal_url.rstrip('/')
     headers = {
