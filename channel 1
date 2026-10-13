@@ -87,6 +87,125 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=551766&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=551765&extension=ts&play_token=TOzmKwHBot
 
+============================================================================================================================
+
+#EXTINF:-1 tvg-id="828101" tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="ASTRO SPORTS",##### UK ASTRO SPORTS #####
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828101&extension=ts&play_token=dRIRca2NTr
+
+#EXTINF:-1 tvg-id="828100" tvg-name="UK - ASTRO SUPERSPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSUPERSPORT.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828100&extension=ts&play_token=ZAwmyDYLz4
+#EXTINF:-1 tvg-id="828099" tvg-name="UK - ASTRO SUPERSPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSUPERSPORT.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 2 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828099&extension=ts&play_token=y2ad78dxOc
+#EXTINF:-1 tvg-id="828098" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828098&extension=ts&play_token=1UI5pn3kVD
+#EXTINF:-1 tvg-id="828097" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828097&extension=ts&play_token=0M20ZCe9e8
+#EXTINF:-1 tvg-id="828096" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828096&extension=ts&play_token=Cm3KaIx6i8
+#EXTINF:-1 tvg-id="828095" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828095&extension=ts&play_token=5Nj7rosBIH
+#EXTINF:-1 tvg-id="828094" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828094&extension=ts&play_token=H44kgjGDnL
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-id="827943" tvg-name="##### UK NOW SPORTS #####" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="NOW SPORTS",##### UK NOW SPORTS #####
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827943&extension=ts&play_token=SDP8Dr5Urc
+
+#EXTINF:-1 tvg-id="827941" tvg-name="UK - NOW HK NOW SPORTS 4K 617" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 4K 617
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827941&extension=ts&play_token=oXSMImS4wj
+#EXTINF:-1 tvg-id="827942" tvg-name="UK - NOW HK NOW SPORTS 4K 616" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 4K 616
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827942&extension=ts&play_token=bnoibvne4c
+#EXTINF:-1 tvg-id="827932" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827932&extension=ts&play_token=AMUPyG5kdn
+#EXTINF:-1 tvg-id="827931" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827931&extension=ts&play_token=oVpkgyqv9I
+#EXTINF:-1 tvg-id="827930" tvg-name="UK - NOW HK NOW SPORTS 3" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827930&extension=ts&play_token=FV3vXZU6tN
+#EXTINF:-1 tvg-id="827929" tvg-name="UK - NOW HK NOW SPORTS 4" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827929&extension=ts&play_token=99ZRO1i5V6
+#EXTINF:-1 tvg-id="827928" tvg-name="UK - NOW HK NOW SPORTS 5" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827928&extension=ts&play_token=smDelTYSHb
+#EXTINF:-1 tvg-id="827927" tvg-name="UK - NOW HK NOW SPORTS 6" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827927&extension=ts&play_token=Ih3qQbCDp5
+#EXTINF:-1 tvg-id="827926" tvg-name="UK - NOW HK NOW SPORTS 7" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="NOW SPORTS",UK - NOW HK NOW SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827926&extension=ts&play_token=Lzr0jbo4DZ
+#EXTINF:-1 tvg-id="827940" tvg-name="UK - NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827940&extension=ts&play_token=lCvyQ4pIjR
+#EXTINF:-1 tvg-id="827939" tvg-name="UK - NOW HK PREMIER SPORTS 2" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827939&extension=ts&play_token=59eq9u4EwI
+#EXTINF:-1 tvg-id="827938" tvg-name="UK - NOW HK PREMIER SPORTS 3" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827938&extension=ts&play_token=NPomD43wD5
+#EXTINF:-1 tvg-id="827937" tvg-name="UK - NOW HK PREMIER SPORTS 4" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827937&extension=ts&play_token=sgAjVb2UAj
+#EXTINF:-1 tvg-id="827936" tvg-name="UK - NOW HK PREMIER SPORTS 5" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827936&extension=ts&play_token=UXNJnTpVxE
+#EXTINF:-1 tvg-id="827935" tvg-name="UK - NOW HK PREMIER SPORTS 6" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827935&extension=ts&play_token=HbPpzS1eVA
+#EXTINF:-1 tvg-id="827934" tvg-name="UK - NOW HK PREMIER SPORTS 7" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827934&extension=ts&play_token=aYQNqcrdU3
+#EXTINF:-1 tvg-id="827933" tvg-name="UK - NOW HK PREMIER SPORTS 8" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="NOW SPORTS",UK - NOW HK PREMIER SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827933&extension=ts&play_token=Inebzr1tD6
+
+
+
+
+
+
+
+
 
 
 
