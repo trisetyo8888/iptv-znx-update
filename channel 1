@@ -1,4 +1,100 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894968&extension=ts&play_token=d476sHf7kY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894969&extension=ts&play_token=Axbj1UpiLf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894970&extension=ts&play_token=I7TamKHjfE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894971&extension=ts&play_token=gKpFMNsv8n
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894972&extension=ts&play_token=N0ZVdryQ2t
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894973&extension=ts&play_token=BirmrKgHCp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 1 HD [DE]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894974&extension=ts&play_token=QJynUGOYA8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 2 HD [DE]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894975&extension=ts&play_token=F8jNKRZvQM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ AMAZON PRIME EVENT HD [DE]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894976&extension=ts&play_token=bqcoHzqZ62
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 1 HD [UK]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894977&extension=ts&play_token=tEr1M2j3BX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 2 HD [UK]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894978&extension=ts&play_token=UfgsppdakU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 3 HD [UK]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894979&extension=ts&play_token=0dnRgB3sAm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 4 HD [UK]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894980&extension=ts&play_token=MhrwbLDXlH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 5 HD [UK]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894981&extension=ts&play_token=JrxAcTtLt8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 1 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894989&extension=ts&play_token=NwMVjIzxq0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 2 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894990&extension=ts&play_token=OlNzE9BIQt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 3 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894991&extension=ts&play_token=opk9950Ixm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 4 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894992&extension=ts&play_token=vlCjnEyxSc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 5 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894993&extension=ts&play_token=HmW7UOP2U1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 6 HD [ES]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894994&extension=ts&play_token=L9HFm3QrbM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 1 HD [AR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894995&extension=ts&play_token=n3V8awJxQf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 2 HD [AR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894996&extension=ts&play_token=979huRrgbn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 3 HD [AR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894997&extension=ts&play_token=myIGWVPDkc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894986&extension=ts&play_token=4gi3mu4O4V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ SPORT HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894987&extension=ts&play_token=s5owqEgfud
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ FOOT HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894988&extension=ts&play_token=5hVx36bKGk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 1 HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894982&extension=ts&play_token=8WMTlTOREO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 2 HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894983&extension=ts&play_token=I0JvqtTrUl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 3 HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894984&extension=ts&play_token=KIsluBKiTa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 4 HD [FR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894985&extension=ts&play_token=5PTKDset4H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ SKY SPORT UNO HD [IT]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894998&extension=ts&play_token=Iw87xoQZHr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 1 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895006&extension=ts&play_token=OcOJbK1LFs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 2 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895007&extension=ts&play_token=KiXjWF9pmR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 3 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895008&extension=ts&play_token=SheABiKrnC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 4 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895009&extension=ts&play_token=AOB0xI6c3J
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 5 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895010&extension=ts&play_token=hukoVfL2Oy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 6 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1030316&extension=ts&play_token=GfVXhANQoj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 7 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1030317&extension=ts&play_token=cBuxj28yLN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 8 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1030318&extension=ts&play_token=ssBHxuoQCP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 9 HD [AL]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1030319&extension=ts&play_token=VFwNMwDRim
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=894999&extension=ts&play_token=wLNaibZd35
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 1 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895000&extension=ts&play_token=ihSgljDVTP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 2 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895001&extension=ts&play_token=HdSeewPJup
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 3 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895002&extension=ts&play_token=Vuu2mwO7GR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 4 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895003&extension=ts&play_token=HlmQ29KPf9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 5 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895004&extension=ts&play_token=TR0cMr44vz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 6 HD [TR]
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895005&extension=ts&play_token=OLLRJef7LE
+
+============================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="┃UK┃ BEIN SPORTS",☰☰☰☰ ┃UK┃ BEIN SPORTS EN LIVE ☰☰☰☰
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313532&extension=ts&play_token=oHh2CqzRzD
@@ -54,7 +150,6 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313572&e
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313573&extension=ts&play_token=M23YIN8HCz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313574&extension=ts&play_token=uUAmoJpEeG
-
 
 ============================================================================================================================
 
@@ -132,11 +227,208 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827934&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827933&extension=ts&play_token=Inebzr1tD6
 
+============================================================================================================================
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ESPN 1 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1287&extension=ts&play_token=CNnBYbdBJb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ESPN 2 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1286&extension=ts&play_token=lQjG8p3kl7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ESPN 3 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1285&extension=ts&play_token=0WGBC7ngFH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ESPN 4 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1284&extension=ts&play_token=LyqQukMXGl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1281&extension=ts&play_token=ZH90Fnms4Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 2 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1280&extension=ts&play_token=hs2mXla2jx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 3 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1278&extension=ts&play_token=DUFXnbluv3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1279&extension=ts&play_token=XsTZ5YaKhb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1277&extension=ts&play_token=lXYjusArKB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ ZIGGO SPORT 6 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1276&extension=ts&play_token=eWu9L0xN1j
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT1HD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ EUROSPORT 1 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1275&extension=ts&play_token=I3PAaqrtOh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT2HD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ EUROSPORT 2 HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1274&extension=ts&play_token=sHZMrOvWH1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/HCHD.png" group-title="┃NL┃ NEDERLAND SPORTS ⏺",┃NL┃ HORSE AND COUNTRY HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1272&extension=ts&play_token=r0KtyrhNfc
 
+============================================================================================================================
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ESPN 1 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548074&extension=ts&play_token=F2qsBgG3QI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ESPN 2 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548073&extension=ts&play_token=2XWRGLIqnX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ESPN 3 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548072&extension=ts&play_token=B7K1SzStqU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ESPN 4 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548071&extension=ts&play_token=cg0aWnMzGT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548065&extension=ts&play_token=LgwGplJEYm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 1 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548066&extension=ts&play_token=AajxvmzzlZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 2 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548062&extension=ts&play_token=G7wqDasfkv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 3 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548068&extension=ts&play_token=6YXfC9SuBb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 4 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548067&extension=ts&play_token=ypxFkxGI4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 5 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548069&extension=ts&play_token=Lv8AkFcXjs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ ZIGGO SPORT 6 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548063&extension=ts&play_token=gbQ7pjiQmo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT1HD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ EUROSPORT 1 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548060&extension=ts&play_token=2lcJe2dQUC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT2HD.png" group-title="┃NL┃ NEDERLAND SPORTS 4K ⏺",┃NL┃ EUROSPORT 2 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=548058&extension=ts&play_token=1VhthfKQ0q
 
+============================================================================================================================
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW 50FPS ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174223&extension=ts&play_token=rd1vXwO0Nk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS ULTIMATE 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174213&extension=ts&play_token=G2pOXQdGy0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW 50FPS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174218&extension=ts&play_token=j1WKMGe5iD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW 50FPS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174219&extension=ts&play_token=LKxhf5gLlw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW 50FPS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174220&extension=ts&play_token=M7ZKo7at6a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW 50FPS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174221&extension=ts&play_token=LxYaJb0OAu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174222&extension=ts&play_token=piUj9UGPwU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174214&extension=ts&play_token=SJ5UCx4XyL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174215&extension=ts&play_token=wz39NFX9Sn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174216&extension=ts&play_token=P796lumWNm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174217&extension=ts&play_token=R1uHzYHtDt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS HEVC RAW ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311893&extension=ts&play_token=dW0wR2noKN
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 HEVC RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311894&extension=ts&play_token=jrSSwJM1W8
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 HEVC RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311895&extension=ts&play_token=h1kpRupvFi
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 HEVC RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311896&extension=ts&play_token=rSHtOuQr7T
+#EXTINF:-1 group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 HEVC RAW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311897&extension=ts&play_token=wTllWhTb18
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",☰☰☰☰ ┃UK┃ TNT SPORTS HEVC FHD ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174230&extension=ts&play_token=Vl1V5lTrHR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 1 HEVC FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174231&extension=ts&play_token=RrBz0NETbl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 2 HEVC FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174232&extension=ts&play_token=BEKlXYMFiV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 3 HEVC FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174233&extension=ts&play_token=hYNrVHrapj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 4 HEVC FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174234&extension=ts&play_token=Z0RSYwN8jT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",☰☰☰☰ ┃UK┃ TNT SPORTS HEVC HD ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174224&extension=ts&play_token=9Gl5rDGeut
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 1 HEVC HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174226&extension=ts&play_token=HCESfYIDHM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 2 HEVC HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174227&extension=ts&play_token=49SyWz9xSw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 3 HEVC HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174228&extension=ts&play_token=3lqKmaskVa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HEVC",┃UK┃ TNT SPORTS 4 HEVC HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174229&extension=ts&play_token=Rr4GuGuzqx
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS FHD",☰☰☰☰ ┃UK┃ TNT SPORTS FHD ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311898&extension=ts&play_token=oy89KhDqC8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS FHD",┃UK┃ TNT SPORTS 1 FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311899&extension=ts&play_token=ANPykXloRe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS FHD",┃UK┃ TNT SPORTS 2 FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311900&extension=ts&play_token=S4SP0ro4wz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS FHD",┃UK┃ TNT SPORTS 3 FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311901&extension=ts&play_token=hnBOhRgyzH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS FHD",┃UK┃ TNT SPORTS 4 FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311902&extension=ts&play_token=TXD5nop5LG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174235&extension=ts&play_token=PWqMlnGMxB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 1 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174236&extension=ts&play_token=5qidIpmJhC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 2 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174237&extension=ts&play_token=PyRNKvHhoB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 3 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174238&extension=ts&play_token=jrssM9UtoJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 4 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174239&extension=ts&play_token=MHrTDCwT0o
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",☰☰☰☰ ┃UK┃ TNT SPORTS SD ☰☰☰☰
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311947&extension=ts&play_token=sdp26UZr5f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 1 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311948&extension=ts&play_token=s0ixGEJlvJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 2 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311950&extension=ts&play_token=QZAz3YEkvc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 3 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311951&extension=ts&play_token=CmX6fSwDUH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 4 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311952&extension=ts&play_token=Zsaq6uPMbb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 5 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311953&extension=ts&play_token=8TciUzEUGc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 6 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311954&extension=ts&play_token=ISpFf7jY3k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 7 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311955&extension=ts&play_token=w2mbeqJMHY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 8 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311956&extension=ts&play_token=XXQu9Iniix
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 9 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311957&extension=ts&play_token=phpBo0SQBh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS SD",┃UK┃ TNT SPORTS 10 SD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1311958&extension=ts&play_token=1KRuiewERz
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174212&extension=ts&play_token=Zza31Nykhr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174211&extension=ts&play_token=Kdy6JIdQ9P
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174210&extension=ts&play_token=AbbHIxBap6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174209&extension=ts&play_token=l04DziqaG6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 5
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174208&extension=ts&play_token=gsyoeKmjOl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 6
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174207&extension=ts&play_token=90LdUFz6yu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 7
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174206&extension=ts&play_token=VkgXayeDcJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174205&extension=ts&play_token=q5SI9Vv5cC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174204&extension=ts&play_token=XWpR1dl7ZB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 10
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174203&extension=ts&play_token=M1R9KWyqAR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 11
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174202&extension=ts&play_token=R8EjmTbW2e
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 12
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174201&extension=ts&play_token=aOB0IVkDbP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 13
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174200&extension=ts&play_token=mwyj69n1eT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 14
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174199&extension=ts&play_token=7U7fPhjeGO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 15
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174198&extension=ts&play_token=dD08OAK7wP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 16
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174197&extension=ts&play_token=KTZndx8Nyt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 17
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174196&extension=ts&play_token=CJCFMQHSdG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS EVENT",┃UK┃ TNT SPORTS EVENT 18
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174195&extension=ts&play_token=ZGXXjBlmw7
 
 
 
