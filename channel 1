@@ -151,47 +151,44 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313573&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313574&extension=ts&play_token=uUAmoJpEeG
 
-============================================================================================================================
+==========================================================================================================================
 
-EXTINF:-1 tvg-id="828101" tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="ASTRO SPORTS",##### UK ASTRO SPORTS #####
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828101&extension=ts&play_token=dRIRca2NTr
-
-EXTINF:-1 tvg-id="828100" tvg-name="UK - ASTRO SUPERSPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSUPERSPORT.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 1 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828100&extension=ts&play_token=ZAwmyDYLz4
-
-EXTINF:-1 tvg-id="828099" tvg-name="UK - ASTRO SUPERSPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSUPERSPORT.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 2 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828099&extension=ts&play_token=y2ad78dxOc
-
-EXTINF:-1 tvg-id="828098" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828098&extension=ts&play_token=1UI5pn3kVD
-
-EXTINF:-1 tvg-id="828097" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828097&extension=ts&play_token=0M20ZCe9e8
-
-EXTINF:-1 tvg-id="828096" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828096&extension=ts&play_token=Cm3KaIx6i8
-
-EXTINF:-1 tvg-id="828095" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828095&extension=ts&play_token=5Nj7rosBIH
-
-EXTINF:-1 tvg-id="828094" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828094&extension=ts&play_token=H44kgjGDnL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859098&extension=ts&play_token=EHXiYM7DNw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859097&extension=ts&play_token=cFFzoRropX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 3 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859096&extension=ts&play_token=J1VAN35bNA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 4 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859095&extension=ts&play_token=cwVY78Ovlt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 5 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859094&extension=ts&play_token=WJx1ogCARS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 6 4K
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859093&extension=ts&play_token=Ibx2Z41wAy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859092&extension=ts&play_token=L4aNb3G18x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859091&extension=ts&play_token=h0aVEZmBz9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 3 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859090&extension=ts&play_token=edbPoW6tGQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 4 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859089&extension=ts&play_token=RSJKm8mL8K
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 5 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859088&extension=ts&play_token=HglsINz2SM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 6 HD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859087&extension=ts&play_token=bk1NjttHqw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859086&extension=ts&play_token=bcrzmY9KpV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859085&extension=ts&play_token=ENc88IqfR2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 3 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859084&extension=ts&play_token=YXVZzrLIfP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 4 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859083&extension=ts&play_token=5hwDPvXvub
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 5 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859082&extension=ts&play_token=pQ3ZDtQYg3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="AR| ALWAN",AR| ALWAN SPORT 6 SD
+http://tlmr.online:80/play/live.php?mac=00:1A:79:53:35:98&stream=1859081&extension=ts&play_token=qYNRFPyyjF
 
 ============================================================================================================================
 
