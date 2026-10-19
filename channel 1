@@ -1,0 +1,54 @@
+#EXTINF:-1 tvg-id="577946" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="LIGA INGGRIS",UK - SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=577946&extension=ts&play_token=inV7FTyF8H
+
+#EXTINF:-1 tvg-id="827982" tvg-name="UK - HUB PREMIER 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER1.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827982&extension=ts&play_token=TTfbFg90lD
+#EXTINF:-1 tvg-id="827981" tvg-name="UK - HUB PREMIER 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827981&extension=ts&play_token=6NsjeojZJg
+#EXTINF:-1 tvg-id="827980" tvg-name="UK - HUB PREMIER 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 2 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827980&extension=ts&play_token=h67r5VZ6HN
+#EXTINF:-1 tvg-id="827979" tvg-name="UK - HUB PREMIER 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER3.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827979&extension=ts&play_token=eswSIM9nT1
+#EXTINF:-1 tvg-id="827978" tvg-name="UK - HUB PREMIER 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER4.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827978&extension=ts&play_token=Ad8XQCywSZ
+#EXTINF:-1 tvg-id="827977" tvg-name="UK - HUB PREMIER 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER5.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827977&extension=ts&play_token=dtUZeyIvdI
+#EXTINF:-1 tvg-id="827976" tvg-name="UK - HUB PREMIER 6 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER6.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 6 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827976&extension=ts&play_token=jlzryupKfm
+#EXTINF:-1 tvg-id="827975" tvg-name="UK - HUB PREMIER 7 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER7.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827975&extension=ts&play_token=76isz0N9OL
+#EXTINF:-1 tvg-id="827974" tvg-name="UK - HUB PREMIER 8 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER8.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 8 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827974&extension=ts&play_token=HeJQUHTMXR
+#EXTINF:-1 tvg-id="827973" tvg-name="UK - HUB PREMIER 9 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER9.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 9 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827973&extension=ts&play_token=og7ukiSDuj
+#EXTINF:-1 tvg-id="827972" tvg-name="UK - HUB PREMIER 10 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER10.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 10 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827972&extension=ts&play_token=VpXNv3B3vZ
+#EXTINF:-1 tvg-id="827971" tvg-name="UK - HUB PREMIER 11 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER11.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 11 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827971&extension=ts&play_token=q7L7meDMqf
+
