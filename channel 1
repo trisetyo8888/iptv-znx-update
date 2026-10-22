@@ -49,29 +49,53 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827972&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827971&extension=ts&play_token=q7L7meDMqf
 
+========================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK| EPL PREMIER LEAGUE",##### EPL PREMIER LEAGUE PPV #####
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616587&extension=ts&play_token=7b2P6icRP2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 1
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616586&extension=ts&play_token=2ZA4yjHdLx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 2
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616585&extension=ts&play_token=S2HoHsnk0L
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 3
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616584&extension=ts&play_token=obERPM8rYp
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 4
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616583&extension=ts&play_token=PAgJH3CF00
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 5
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616582&extension=ts&play_token=01g4i8mS7p
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 6
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616581&extension=ts&play_token=z23vb20qUY
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 7
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616580&extension=ts&play_token=0vgFqNCpft
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 8
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616579&extension=ts&play_token=quvAnSF52u
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 9
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616578&extension=ts&play_token=SyR6qRRzBU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="LIGA INGGRIS",EPL| PREMIERE LEAGUE 10
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1616577&extension=ts&play_token=oRCO8opWrH
+#EXTINF:-1 tvg-id="1411771" tvg-name="Premier League+ 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411771&extension=ts&play_token=FmTxw6OxSO
+#EXTINF:-1 tvg-id="1411770" tvg-name="Premier League+ 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411770&extension=ts&play_token=HSawN5yby9
+#EXTINF:-1 tvg-id="1411769" tvg-name="Premier League+ 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411769&extension=ts&play_token=0CI7K1u67n
+#EXTINF:-1 tvg-id="1411768" tvg-name="Premier League+ 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411768&extension=ts&play_token=51BGDCJkOV
+#EXTINF:-1 tvg-id="1411767" tvg-name="Premier League+ 5" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411767&extension=ts&play_token=I4lwXaDBmy
+#EXTINF:-1 tvg-id="1411766" tvg-name="Premier League+ 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411766&extension=ts&play_token=yg3brnWKBB
+#EXTINF:-1 tvg-id="1411765" tvg-name="Premier League+ 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411765&extension=ts&play_token=hH82ZHER1F
+#EXTINF:-1 tvg-id="1411764" tvg-name="Premier League+ 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411764&extension=ts&play_token=5cfRkWIHbH
+#EXTINF:-1 tvg-id="1411763" tvg-name="Premier League+ 9" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411763&extension=ts&play_token=Thcu9oe52B
+#EXTINF:-1 tvg-id="1411762" tvg-name="Premier League+ 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/PremierLeague.png" group-title="LIGA INGGRIS",Premier League+ 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411762&extension=ts&play_token=l5hLl5imTf
+
+
+
+
+
 
 
 
