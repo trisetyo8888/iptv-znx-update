@@ -92,15 +92,49 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411763&extensio
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1411762&extension=ts&play_token=l5hLl5imTf
 
+========================================================================================================================
 
+#EXTINF:-1 tvg-id="812987" tvg-name="PT -  SPORT TV 1 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="LIGA ITALIA",PT -  SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=812987&extension=ts&play_token=zuI8Yn0zt7
+#EXTINF:-1 tvg-id="812988" tvg-name="PT -  SPORT TV 2 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="LIGA ITALIA",PT -  SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=812988&extension=ts&play_token=1tkaAAvFdB
+#EXTINF:-1 tvg-id="812989" tvg-name="PT -  SPORT TV 3 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="LIGA ITALIA",PT -  SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=812989&extension=ts&play_token=VvhAxiQwSd
+#EXTINF:-1 tvg-id="812990" tvg-name="PT -  SPORT TV 4 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="LIGA ITALIA",PT -  SPORT TV 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=812990&extension=ts&play_token=TpGdoVmaxz
+#EXTINF:-1 tvg-id="812991" tvg-name="PT -  SPORT TV 5 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="LIGA ITALIA",PT -  SPORT TV 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=812991&extension=ts&play_token=waI3VeeJTy
+#EXTINF:-1 tvg-id="632985" tvg-name="PT - SPORT TV 6 UHD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV6.png" group-title="LIGA ITALIA",PT - SPORT TV 6 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=632985&extension=ts&play_token=Ue75WCjbU9
+#EXTINF:-1 tvg-id="1070148" tvg-name="PT - SPORT TV 7 HD" tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV7.png" group-title="LIGA ITALIA",PT - SPORT TV 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=1070148&extension=ts&play_token=HmVrB6XguK
 
+========================================================================================================================
 
+#EXTINF:-1 tvg-id="TNgfFe4kMEAcdglnPZuMwaUaKf9YBcrv" data-source="myiptvv" tvg-logo="https://i.imgur.com/UaIZZuM.jpeg" group-title="LIGA ITALIA",MAX SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228727&extension=ts&play_token=4L1CwisGrN
+#EXTINF:-1 tvg-id="c14atVnJCIgEPqRUVN4Ggfzql0x4vR58" data-source="myiptvv" tvg-logo="https://i.imgur.com/yXQ9opG.jpeg" group-title="LIGA ITALIA",MAX SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228726&extension=ts&play_token=gn5deSQGHv
+#EXTINF:-1 tvg-id="FzJ6aEgaI7ludRAS0NNhddySEx2Roo0B" data-source="myiptvv" tvg-logo="https://i.imgur.com/Pp1TQKR.jpeg" group-title="LIGA ITALIA",MAX SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228725&extension=ts&play_token=jcf7ljMYZy
+#EXTINF:-1 tvg-id="3vD4j7LlfwQsEIXuARltQ9CZMkqEN5EB" data-source="myiptvv" tvg-logo="https://i.imgur.com/xXq4TUW.jpeg" group-title="LIGA ITALIA",MAX SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&extension=ts&play_token=8yT2pH1qzP
 
-
-
-
-
-
+========================================================================================================================
 
 
 
