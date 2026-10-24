@@ -136,6 +136,47 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&exte
 
 ========================================================================================================================
 
+#EXTINF:-1 tvg-id="891271" tvg-name="NL - ZIGGO SPORT HD ◉" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891271.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891271&extension=ts&play_token=zHjISQKkL8
+#EXTINF:-1 tvg-id="891270" tvg-name="NL - ZIGGO SPORT HD ²" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891270.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT HD ²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891270&extension=ts&play_token=xg6lHxnm1b
+#EXTINF:-1 tvg-id="891269" tvg-name="NL - ZIGGO SPORT 2 HD" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891269.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891269&extension=ts&play_token=lej0oxfHKY
+#EXTINF:-1 tvg-id="891268" tvg-name="NL - ZIGGO SPORT 3 HD" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891268.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891268&extension=ts&play_token=TzfAY87wRH
+#EXTINF:-1 tvg-id="891267" tvg-name="NL - ZIGGO SPORT 4 HD" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891267.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891267&extension=ts&play_token=AHVv66fR0f
+#EXTINF:-1 tvg-id="891266" tvg-name="NL - ZIGGO SPORT 5 HD" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891266.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891266&extension=ts&play_token=5CBBlQVPXx
+#EXTINF:-1 tvg-id="891263" tvg-name="NL - ZIGGO SPORT 6 HD" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891263.png" group-title="LIGA ITALIA",NL - ZIGGO SPORT 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891263&extension=ts&play_token=V8uYZvJ6EC
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
