@@ -467,9 +467,9 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1174195&e
 
 ============================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ SKY SPORTS 4K ☰☰☰☰
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS",☰☰☰☰ ┃UK┃ SKY SPORTS 4K ☰☰☰☰
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1312010&extension=ts&play_token=7m2IryD51k
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png" group-title="┃┃UK┃ SKY SPORTS",┃UK┃ SKY SPORTS MAIN EVENTS 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png" group-title="┃UK┃ SKY SPORTS",┃UK┃ SKY SPORTS MAIN EVENTS 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1312008&extension=ts&play_token=RB3t02SrXY
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS",┃UK┃ SKY SPORTS F1 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1312007&extension=ts&play_token=g3xV0RhcVt
