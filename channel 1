@@ -165,8 +165,56 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891266&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891263&extension=ts&play_token=V8uYZvJ6EC
 
+========================================================================================================================
 
-
+#EXTINF:-1 tvg-id="612210" tvg-name="ES - M. LALIGA 1 FHD (1080P)" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612210.png" group-title="LIGA SPANYOL",ES - M. LALIGA 1 FHD (1080P)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612210&extension=ts&play_token=MH7HZyZDyH
+#EXTINF:-1 tvg-id="612212" tvg-name="ES - M. LALIGA 1 HEVC" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612212.png" group-title="LIGA SPANYOL",ES - M. LALIGA 1 HEVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612212&extension=ts&play_token=ZhcSu5duZV
+#EXTINF:-1 tvg-id="612214" tvg-name="ES - M. LALIGA 2 HD" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612214.png" group-title="LIGA SPANYOL",ES - M. LALIGA 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612214&extension=ts&play_token=2OWTh5zZ9G
+#EXTINF:-1 tvg-id="612213" tvg-name="ES - M. LALIGA 2 FHD (1080P)" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612213.png" group-title="LIGA SPANYOL",ES - M. LALIGA 2 FHD (1080P)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612213&extension=ts&play_token=GX6maT1vpv
+#EXTINF:-1 tvg-id="612215" tvg-name="ES - M. LALIGA 3 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612215.png" group-title="LIGA SPANYOL",ES - M. LALIGA 3 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612215&extension=ts&play_token=M8gtHKZFC3
+#EXTINF:-1 tvg-id="612216" tvg-name="ES - M. LALIGA 4 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612216.png" group-title="LIGA SPANYOL",ES - M. LALIGA 4 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612216&extension=ts&play_token=dBIJ4WaSJr
+#EXTINF:-1 tvg-id="612217" tvg-name="ES - M. LALIGA 5 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612217.png" group-title="LIGA SPANYOL",ES - M. LALIGA 5 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612217&extension=ts&play_token=7zG38g8HX7
+#EXTINF:-1 tvg-id="612218" tvg-name="ES - M. LALIGA 6 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612218.png" group-title="LIGA SPANYOL",ES - M. LALIGA 6 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612218&extension=ts&play_token=kDhYOeg7S6
+#EXTINF:-1 tvg-id="612219" tvg-name="ES - M. LALIGA 7 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612219.png" group-title="LIGA SPANYOL",ES - M. LALIGA 7 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612219&extension=ts&play_token=GfjDMQGuRb
+#EXTINF:-1 tvg-id="612220" tvg-name="ES - M. LALIGA 8 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612220.png" group-title="LIGA SPANYOL",ES - M. LALIGA 8 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612220&extension=ts&play_token=axXfGdkvoq
+#EXTINF:-1 tvg-id="612221" tvg-name="ES - M. LALIGA 9 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612221.png" group-title="LIGA SPANYOL",ES - M. LALIGA 9 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612221&extension=ts&play_token=124AGSXOCW
+#EXTINF:-1 tvg-id="612222" tvg-name="ES - M. LALIGA 10 HD [LIVEEVENT]" tvg-logo="http://103.176.90.154/picons/logos/SPAIN/612222.png" group-title="LIGA SPANYOL",ES - M. LALIGA 10 HD [LIVEEVENT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612222&extension=ts&play_token=6Pm3geg62p
 
 
 
