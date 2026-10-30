@@ -96,60 +96,73 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895005&ex
 
 ============================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="┃UK┃ BEIN SPORTS",☰☰☰☰ ┃UK┃ BEIN SPORTS EN LIVE ☰☰☰☰
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313532&extension=ts&play_token=oHh2CqzRzD
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 EN FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313533&extension=ts&play_token=P9Y7RoEhpB
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 EN FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313534&extension=ts&play_token=Lo2maPxX7F
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 EN FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313535&extension=ts&play_token=6VrDO8U2lV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 EN FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313536&extension=ts&play_token=LThj0L0jKr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 EN HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313537&extension=ts&play_token=TDdqoin2EC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 EN HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313538&extension=ts&play_token=VA6pejpvFi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 EN SD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313539&extension=ts&play_token=H9JFVqogLh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 EN SD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313540&extension=ts&play_token=MJs3UilYMv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN 4K (MATCH TIME) ☰☰☰☰
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313541&extension=ts&play_token=PUi67QwrTY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 4K EN FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313559&extension=ts&play_token=dMCnAmXqba
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ EIN SPORTS 2 4K EN FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313560&extension=ts&play_token=1MsR7hui0Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 4K EN HEVC FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313561&extension=ts&play_token=dzfBMnWhUm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 4K EN HEVC FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313562&extension=ts&play_token=EuQoiVPDSX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 4K EN HD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313563&extension=ts&play_token=eqyqMsUlLc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 4K EN HD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313564&extension=ts&play_token=x5fG5Ybsbz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 4K EN SD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313565&extension=ts&play_token=h9yATz9chY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 4K EN SD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313566&extension=ts&play_token=SX0pjZVaWp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313550&extension=ts&play_token=px3fE1qdk1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 UHD EN FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313567&extension=ts&play_token=g87eOGrlt8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313568&extension=ts&play_token=WQeS2IYJBa
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313569&extension=ts&play_token=55Gh2r0C1U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN HEVC (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313570&extension=ts&play_token=0QZ3UedEEx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 UHD EN HD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313571&extension=ts&play_token=ynaoWCNki0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN HD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313572&extension=ts&play_token=uChOUQmGmH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 1 UHD EN SD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313573&extension=ts&play_token=M23YIN8HCz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃UK┃ BEIN SPORTS",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1313574&extension=ts&play_token=uUAmoJpEeG
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="828089" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT1EN.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828089&extension=ts&play_token=dvCOs7AGkt
+#EXTINF:-1 tvg-id="828088" tvg-name="UK - BEIN SPORT 2 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT2EN.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828088&extension=ts&play_token=XhjpQ94TtY
+#EXTINF:-1 tvg-id="828087" tvg-name="UK - BEIN SPORT 3 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828087&extension=ts&play_token=YYqE7BOtP0
+#EXTINF:-1 tvg-id="828086" tvg-name="UK - BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828086&extension=ts&play_token=3b2NLpWvsb
+#EXTINF:-1 tvg-id="828085" tvg-name="UK - BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828085&extension=ts&play_token=USHQ1SKWFc
+#EXTINF:-1 tvg-id="828084" tvg-name="UK - BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828084&extension=ts&play_token=Py25KCtoow
+#EXTINF:-1 tvg-id="828083" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828083&extension=ts&play_token=TcaGQYH3kK
+#EXTINF:-1 tvg-id="828082" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828082&extension=ts&play_token=kxCXkPkg6c
+#EXTINF:-1 tvg-id="828081" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828081&extension=ts&play_token=TzlpKoSLL5
+#EXTINF:-1 tvg-id="828080" tvg-name="UK - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828080&extension=ts&play_token=SkegUFyRAL
+#EXTINF:-1 tvg-id="828079" tvg-name="UK - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828079&extension=ts&play_token=JalnkjHsP6
+#EXTINF:-1 tvg-id="828078" tvg-name="UK - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS6.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828078&extension=ts&play_token=4PBhpKPqWB
+#EXTINF:-1 tvg-id="828077" tvg-name="UK - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS7.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828077&extension=ts&play_token=wdMaruf8Xr
+
+
+
+
+
+
+
+
+
 
 ==========================================================================================================================
 
