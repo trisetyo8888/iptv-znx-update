@@ -684,8 +684,6 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1312832&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/WWE.png" group-title="┃UK┃ SKY SPORTS",┃UK┃ WWE HD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=1312831&extension=ts&play_token=rWiKMDtRz8
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/WWE.png" group-title="┃UK┃ SKY SPORTS",EN| CHRISTMAS 1 4K
-https://raw.githubusercontent.com/trisetyo8888/mac-portal-updater/refs/heads/main/converted%20(1).m3u8
 
 
 
