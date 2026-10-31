@@ -96,73 +96,71 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895005&ex
 
 ============================================================================================================================
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="828089" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT1EN.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828089" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT1EN.png" group-title="|UK| BEIN SPORT",BEIN SPORT 1 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828089&extension=ts&play_token=dvCOs7AGkt
-#EXTINF:-1 tvg-id="828088" tvg-name="UK - BEIN SPORT 2 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT2EN.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828088" tvg-name="UK - BEIN SPORT 2 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT2EN.png" group-title="|UK| BEIN SPORT",BEIN SPORT 2 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828088&extension=ts&play_token=XhjpQ94TtY
-#EXTINF:-1 tvg-id="828087" tvg-name="UK - BEIN SPORT 3 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828087" tvg-name="UK - BEIN SPORT 3 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| BEIN SPORT",BEIN SPORT 3 EN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828087&extension=ts&play_token=YYqE7BOtP0
-#EXTINF:-1 tvg-id="828086" tvg-name="UK - BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828086" tvg-name="UK - BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 1 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828086&extension=ts&play_token=3b2NLpWvsb
-#EXTINF:-1 tvg-id="828085" tvg-name="UK - BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828085" tvg-name="UK - BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 2 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828085&extension=ts&play_token=USHQ1SKWFc
-#EXTINF:-1 tvg-id="828084" tvg-name="UK - BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 PREMIUM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828084" tvg-name="UK - BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 3 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828084&extension=ts&play_token=Py25KCtoow
-#EXTINF:-1 tvg-id="828083" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828083" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828083&extension=ts&play_token=TcaGQYH3kK
-#EXTINF:-1 tvg-id="828082" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828082" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828082&extension=ts&play_token=kxCXkPkg6c
-#EXTINF:-1 tvg-id="828081" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828081" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT3.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828081&extension=ts&play_token=TzlpKoSLL5
-#EXTINF:-1 tvg-id="828080" tvg-name="UK - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828080" tvg-name="UK - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828080&extension=ts&play_token=SkegUFyRAL
-#EXTINF:-1 tvg-id="828079" tvg-name="UK - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828079" tvg-name="UK - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828079&extension=ts&play_token=JalnkjHsP6
-#EXTINF:-1 tvg-id="828078" tvg-name="UK - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS6.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828078" tvg-name="UK - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS6.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828078&extension=ts&play_token=4PBhpKPqWB
-#EXTINF:-1 tvg-id="828077" tvg-name="UK - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS7.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTINF:-1 tvg-id="828077" tvg-name="UK - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS7.png" group-title="|UK| BEIN SPORT",BEIN SPORTS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828077&extension=ts&play_token=wdMaruf8Xr
-
-
-
-
-
-
-
-
-
 
 ==========================================================================================================================
 
