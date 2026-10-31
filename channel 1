@@ -270,15 +270,51 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612221&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612222&extension=ts&play_token=6Pm3geg62p
 
+========================================================================================================================
 
+#EXTINF:-1 tvg-id="61038" tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61038
+#EXTINF:-1 tvg-id="61039" tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61039
+#EXTINF:-1 tvg-id="61040" tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61040
+#EXTINF:-1 tvg-id="61041" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61041
+#EXTINF:-1 tvg-id="61042" tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61042
+#EXTINF:-1 tvg-id="61043" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61043
+#EXTINF:-1 tvg-id="61044" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61044
+#EXTINF:-1 tvg-id="61045" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61045
+#EXTINF:-1 tvg-id="61046" tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61046
+#EXTINF:-1 tvg-id="61047" tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 10
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61047
 
+========================================================================================================================
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="63351" tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63351
+#EXTINF:-1 tvg-id="63352" tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63352
+#EXTINF:-1 tvg-id="63353" tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63353
+#EXTINF:-1 tvg-id="63354" tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63354
+#EXTINF:-1 tvg-id="63355" tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63355
+#EXTINF:-1 tvg-id="63356" tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63356
+#EXTINF:-1 tvg-id="63357" tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63357
+#EXTINF:-1 tvg-id="63358" tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63358
+#EXTINF:-1 tvg-id="63359" tvg-name="FR: LIGUE1+ 9" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63359
+#EXTINF:-1 tvg-id="63360" tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 10
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63360
 
 
 
