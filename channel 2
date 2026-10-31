@@ -165,102 +165,249 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828077&extension
 ==========================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806582.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 01 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806582&extension=ts&play_token=bvLFKpRHh6
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806581.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 02 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806581&extension=ts&play_token=HolMrKzsT5
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806580.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 03 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806580&extension=ts&play_token=McN4kEeJ0V
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806579.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 04 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806579&extension=ts&play_token=pHWOS0iQOs
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806578.png" group-title="|AR| BEIN SPORT,AR| BEIN SPORT 05 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806578&extension=ts&play_token=IoCr1S9XNe
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806577.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 06 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806577&extension=ts&play_token=U92J9idF5N
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806576.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 07 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806576&extension=ts&play_token=08xVtG5gWN
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806575.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 08 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806575&extension=ts&play_token=XqPfBkyIL4
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806574.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 09 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806574&extension=ts&play_token=6Eibu7ugHo
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806573.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 01 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806573&extension=ts&play_token=rwm1rom9W9
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806572.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 02 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806572&extension=ts&play_token=RngL0QE0oy
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806571.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 03 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806571&extension=ts&play_token=KqDagYwHuJ
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806570.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 04 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806570&extension=ts&play_token=1Wvv18cGiI
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806569.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 05 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806569&extension=ts&play_token=z1u5eTUCM1
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806568.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 06 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806568&extension=ts&play_token=Lw0GsE2ztL
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806567.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 07 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806567&extension=ts&play_token=Gvmz4XzDaG
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806566.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 08 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806566&extension=ts&play_token=XyXnL86J3f
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806565.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 09 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806565&extension=ts&play_token=NCbblrHsds
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806564.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806564&extension=ts&play_token=lqKxIvXvmy
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806563.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 2 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806563&extension=ts&play_token=2seGsDXnJP
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806562.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 3 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806562&extension=ts&play_token=0SwthGDFxf
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806561.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 4 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806561&extension=ts&play_token=LKVFWT0H6y
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806560.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 5 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806560&extension=ts&play_token=JdoULIA9vk
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806559.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 6 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806559&extension=ts&play_token=bhsLWxAF8u
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806558.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 7 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806558&extension=ts&play_token=UTog2DjbQl
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806557.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 8 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806557&extension=ts&play_token=hFCDsIY29c
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806556.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 9 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806556&extension=ts&play_token=Ok9XtSAWcu
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806555.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 01 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806555&extension=ts&play_token=vtQ2WInw1i
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806554.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 02 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806554&extension=ts&play_token=GLksSo9INr
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806553.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 03 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806553&extension=ts&play_token=d3LBZleF7t
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806552.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 04 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806552&extension=ts&play_token=DES4GvMIig
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806551.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 05 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806551&extension=ts&play_token=sj7WbkFX65
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806550.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 06 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806550&extension=ts&play_token=gf7KT71dnW
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806549.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 07 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806549&extension=ts&play_token=t2Bwo5RShb
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806548.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 08 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806548&extension=ts&play_token=i7P8H6BNsb
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806547.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 09 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806547&extension=ts&play_token=YxoQkg0bwM
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806546.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT 01  EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806546&extension=ts&play_token=MvhqPbr6EW
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806545.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806545&extension=ts&play_token=3LEYkqMUYq
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806544.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806544&extension=ts&play_token=XsAhawhJrn
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806543.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 03 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806543&extension=ts&play_token=vYBksqgxp5
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806542.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806542&extension=ts&play_token=oYQpEhrvMg
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806541.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806541&extension=ts&play_token=dIXRIyBAyA
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1806540.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 03 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1806540&extension=ts&play_token=2c4lTsrnDy
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-4.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832943&extension=ts&play_token=1Zbgx6irw5
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-5.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832942&extension=ts&play_token=mvn4FQkvt9
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-6.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832941&extension=ts&play_token=0ZFEWaCpS4
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-7.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832940&extension=ts&play_token=XJIMw86jhY
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-8.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832939&extension=ts&play_token=Zo7hZMisVs
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEIN-SPORT-XTRA-9.png" group-title="|AR| BEIN SPORT",AR| BEIN SPORT XTRA 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://simpletv.uk/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:0B:2A:B6
 http://simpletv.uk:80/play/live.php?mac=A0:BB:3E:0B:2A:B6&stream=1832938&extension=ts&play_token=ElU5E4G5Yq
 
 ============================================================================================================================
