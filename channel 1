@@ -315,48 +315,98 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=612222&extension
 ========================================================================================================================
 
 #EXTINF:-1 tvg-id="61038" tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61038
 #EXTINF:-1 tvg-id="61039" tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61039
 #EXTINF:-1 tvg-id="61040" tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61040
 #EXTINF:-1 tvg-id="61041" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61041
 #EXTINF:-1 tvg-id="61042" tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61042
 #EXTINF:-1 tvg-id="61043" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61043
 #EXTINF:-1 tvg-id="61044" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61044
 #EXTINF:-1 tvg-id="61045" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61045
 #EXTINF:-1 tvg-id="61046" tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 9
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61046
 #EXTINF:-1 tvg-id="61047" tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="LIGA JERMAN", DE: SKY SPORT BUNDESLIGA 10
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61047
+
+
 
 ========================================================================================================================
 
 #EXTINF:-1 tvg-id="63351" tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63351
 #EXTINF:-1 tvg-id="63352" tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63352
 #EXTINF:-1 tvg-id="63353" tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63353
 #EXTINF:-1 tvg-id="63354" tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63354
 #EXTINF:-1 tvg-id="63355" tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63355
 #EXTINF:-1 tvg-id="63356" tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63356
 #EXTINF:-1 tvg-id="63357" tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63357
 #EXTINF:-1 tvg-id="63358" tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63358
 #EXTINF:-1 tvg-id="63359" tvg-name="FR: LIGUE1+ 9" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 9
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63359
 #EXTINF:-1 tvg-id="63360" tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="LIGA PERANCIS", FR: LIGUE1+ 10
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.2 (Linux;Android 16; rkyyj5) ExoPlayerLib/2.15.1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/63360
+
+========================================================================================================================
+
+#EXTINF:-1 tvg-id="891276" tvg-name="NL - ESPN HD ◉" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891276.png" group-title="LIGA BELANDA",NL - ESPN HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891276&extension=ts&play_token=dcTyKIme7W
+#EXTINF:-1 tvg-id="891275" tvg-name="NL - ESPN 1 HD ◉" tvg-logo="http://103.176.90.154/picons/logos/NETHERLAND/891275.png" group-title="LIGA BELANDA",NL - ESPN 1 HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891275&extension=ts&play_token=zoWJVI6Y8S
+#EXTINF:-1 tvg-id="891274" tvg-name="NL - ESPN 2 HD ◉" tvg-logo="http://103.176.90.154/picons/logos/logos/891274.png" group-title="LIGA BELANDA",NL - ESPN 2 HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891274&extension=ts&play_token=fu6P76NIn9
+#EXTINF:-1 tvg-id="891273" tvg-name="NL - ESPN 3 HD ◉" tvg-logo="http://103.176.90.154/picons/logos/logos/891273.png" group-title="LIGA BELANDA",NL - ESPN 3 HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891273&extension=ts&play_token=eDOyQ21i9f
+#EXTINF:-1 tvg-id="891272" tvg-name="NL - ESPN 4 HD ◉" tvg-logo="http://103.176.90.154/picons/logos/logos/891272.png" group-title="LIGA BELANDA",NL - ESPN 4 HD ◉
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
+http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=891272&extension=ts&play_token=NVA9983Yol
 
 ========================================================================================================================
 
