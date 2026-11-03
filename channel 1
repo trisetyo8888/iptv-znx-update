@@ -212,16 +212,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228725&exte
 #EXTINF:-1 tvg-id="3vD4j7LlfwQsEIXuARltQ9CZMkqEN5EB" data-source="myiptvv" tvg-logo="https://i.imgur.com/xXq4TUW.jpeg" group-title="LIGA ITALIA",MAX SPORT 4 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&extension=ts&play_token=8yT2pH1qzP
 
-========================================================================================================================
-
-#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-1-bg.png" group-title="BG - Sport",(BG) Max Sport 1 4K+
-http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61815&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-2-bg.png" group-title="BG - Sport",(BG) Max Sport 2 4K+
-http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61816&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-3-bg.png" group-title="BG - Sport",(BG) Max Sport 3 4K+
-http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61817&extension=ts
-#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-4-bg.png" group-title="BG - Sport",(BG) Max Sport 4 4K+
-http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61818&extension=ts
+=======================================================================================================================
 
 ========================================================================================================================
 
