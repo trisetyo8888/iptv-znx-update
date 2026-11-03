@@ -214,48 +214,14 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228724&exte
 
 ========================================================================================================================
 
-#EXTINF:-1 tvg-id="61815" tvg-name="(BG) Max Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-1-bg.png" group-title="BG - Live TV",(BG) Max Sport 1 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=http://nxtbox.uk/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?YW5wTE4zcG9Za2RPV1N0MUwySnBRMEUyYmtoa2FqSlBVMDVwTUVsTU5reENhMlpLVjAxblJDOXRORDA9/61815
-
-#EXTINF:-1 tvg-id="61816" tvg-name="(BG) Max Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-2-bg.png" group-title="BG - Live TV",(BG) Max Sport 2 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=http://nxtbox.uk/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61816&extension=ts
-
-#EXTINF:-1 tvg-id="61817" tvg-name="(BG) Max Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-3-bg.png" group-title="BG - Live TV",(BG) Max Sport 3 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=http://nxtbox.uk/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61817&extension=ts
-
-#EXTINF:-1 tvg-id="61818" tvg-name="(BG) Max Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-4-bg.png" group-title="BG - Live TV",(BG) Max Sport 4 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=http://nxtbox.uk/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61818&extension=ts
-
-========================================================================================================================
-
-#EXTINF:-1 tvg-id="61815" tvg-name="(BG) Max Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-1-bg.png" group-title="BG - Live TV",(BG) Max Sport 1 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61815&extension=ts
-#EXTINF:-1 tvg-id="61816" tvg-name="(BG) Max Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-2-bg.png" group-title="BG - Live TV",(BG) Max Sport 2 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61816&extension=ts
-#EXTINF:-1 tvg-id="61817" tvg-name="(BG) Max Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-3-bg.png" group-title="BG - Live TV",(BG) Max Sport 3 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61817&extension=ts
-#EXTINF:-1 tvg-id="61818" tvg-name="(BG) Max Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-4-bg.png" group-title="BG - Live TV",(BG) Max Sport 4 4K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:D4:70:31
-https://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61818&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-1-bg.png" group-title="BG - Sport",(BG) Max Sport 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61815&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-2-bg.png" group-title="BG - Sport",(BG) Max Sport 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61816&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-3-bg.png" group-title="BG - Sport",(BG) Max Sport 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61817&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/max-sport-4-bg.png" group-title="BG - Sport",(BG) Max Sport 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:D4:70:31&stream=61818&extension=ts
 
 ========================================================================================================================
 
