@@ -207,6 +207,174 @@ http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25121
 
 ============================================================================================================================
 
+#EXTINF:-1 tvg-id="1880" tvg-name="┃GR┃ NOVA SPORTS NEWS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS NEWS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1880&extension=ts&play_token=ywApsXevdj
+#EXTINF:-1 tvg-id="174431" tvg-name="┃GR┃ NOVA SPORT NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174431&extension=ts&play_token=2QSXOWUV9R
+#EXTINF:-1 tvg-id="1142146" tvg-name="┃GR┃ NOVA SPORTS PRIME FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1142146&extension=ts&play_token=ZxxblJ1JAA
+#EXTINF:-1 tvg-id="1874" tvg-name="┃GR┃ NOVA SPORTS PRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1874&extension=ts&play_token=1EnGcWHvGr
+#EXTINF:-1 tvg-id="1648351" tvg-name="┃GR┃ NOVA SPORTS PRIME SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PRIME SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648351&extension=ts&play_token=BvD0seN4eL
+#EXTINF:-1 tvg-id="56829" tvg-name="┃GR┃ NOVA SPORTS START FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=56829&extension=ts&play_token=ddmhIMtJ7F
+#EXTINF:-1 tvg-id="174254" tvg-name="┃GR┃ NOVA SPORTS START HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174254&extension=ts&play_token=E63jkb9Yvi
+#EXTINF:-1 tvg-id="1648350" tvg-name="┃GR┃ NOVA SPORTS START SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS START SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648350&extension=ts&play_token=J9cKhRwqP9
+#EXTINF:-1 tvg-id="1879" tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1879&extension=ts&play_token=d6WEgV8Tzv
+#EXTINF:-1 tvg-id="663683" tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=663683&extension=ts&play_token=6iNub3j2Qf
+#EXTINF:-1 tvg-id="1648349" tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS PREMIER LEAGUE SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648349&extension=ts&play_token=9WY6RGCfnl
+#EXTINF:-1 tvg-id="173185" tvg-name="┃GR┃ NOVA SPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173185&extension=ts&play_token=5bj0ngkUj6
+#EXTINF:-1 tvg-id="193070" tvg-name="┃GR┃ NOVA SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193070&extension=ts&play_token=kwNIw6O0on
+#EXTINF:-1 tvg-id="1648348" tvg-name="┃GR┃ NOVA SPORTS 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648348&extension=ts&play_token=vMN3oO0teZ
+#EXTINF:-1 tvg-id="173186" tvg-name="┃GR┃ NOVA SPORTS 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=173186&extension=ts&play_token=ZkidNiArOM
+#EXTINF:-1 tvg-id="1878" tvg-name="┃GR┃ NOVA SPORTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1878&extension=ts&play_token=3j5yyVO6Vk
+#EXTINF:-1 tvg-id="1648347" tvg-name="┃GR┃ NOVA SPORTS 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648347&extension=ts&play_token=WTOpH9jEtu
+#EXTINF:-1 tvg-id="174271" tvg-name="┃GR┃ NOVA SPORTS 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174271&extension=ts&play_token=BWUbIqQQ36
+#EXTINF:-1 tvg-id="1877" tvg-name="┃GR┃ NOVA SPORTS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1877&extension=ts&play_token=dsNoBaZU6g
+#EXTINF:-1 tvg-id="1648346" tvg-name="┃GR┃ NOVA SPORTS 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648346&extension=ts&play_token=ZHes4pEyTt
+#EXTINF:-1 tvg-id="174272" tvg-name="┃GR┃ NOVA SPORTS 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174272&extension=ts&play_token=oRGnWemcUV
+#EXTINF:-1 tvg-id="1876" tvg-name="┃GR┃ NOVA SPORTS 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1876&extension=ts&play_token=6irs54PGhT
+#EXTINF:-1 tvg-id="1648345" tvg-name="┃GR┃ NOVA SPORTS 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648345&extension=ts&play_token=01c1zb1rwq
+#EXTINF:-1 tvg-id="1875" tvg-name="┃GR┃ NOVA SPORTS 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1875&extension=ts&play_token=OY6bvZeR9G
+#EXTINF:-1 tvg-id="193074" tvg-name="┃GR┃ NOVA SPORTS 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193074&extension=ts&play_token=OlGl0YrUr0
+#EXTINF:-1 tvg-id="1648344" tvg-name="┃GR┃ NOVA SPORTS 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648344&extension=ts&play_token=lAWwI1BjNQ
+#EXTINF:-1 tvg-id="174273" tvg-name="┃GR┃ NOVA SPORTS 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174273&extension=ts&play_token=toHbRtLMeP
+#EXTINF:-1 tvg-id="699928" tvg-name="┃GR┃ NOVA SPORTS 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=699928&extension=ts&play_token=4PVEftNJTJ
+#EXTINF:-1 tvg-id="1648343" tvg-name="┃GR┃ NOVA SPORTS 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS 6 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648343&extension=ts&play_token=lUrJYpWkqE
+#EXTINF:-1 tvg-id="193071" tvg-name="┃GR┃ NOVA SPORTS EXTRA 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193071&extension=ts&play_token=FsyTXvi6p8
+#EXTINF:-1 tvg-id="193072" tvg-name="┃GR┃ NOVA SPORTS EXTRA 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193072&extension=ts&play_token=pGSNNUM2DD
+#EXTINF:-1 tvg-id="193073" tvg-name="┃GR┃ NOVA SPORTS EXTRA 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193073&extension=ts&play_token=ewe80BfzQU
+#EXTINF:-1 tvg-id="724019" tvg-name="┃GR┃ NOVA SPORTS EXTRA 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="┃GR┃ NOVA SPORTS",┃GR┃ NOVA SPORTS EXTRA 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=724019&extension=ts&play_token=TEvEFTRfty
+
+============================================================================================================================
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png" group-title="┃HK┃ NOW SPORTS",┃HK┃ NOW SPORTS 1
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=382843&extension=ts&play_token=7tdkcJA0rh
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png" group-title="┃HK┃ NOW SPORTS",┃HK┃ NOW SPORTS 2
