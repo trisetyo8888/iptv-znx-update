@@ -96,6 +96,8 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=895005&ex
 
 ============================================================================================================================
 
+============================================================================================================================
+
 #EXTINF:-1 tvg-id="828089" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORT1EN.png" group-title="|UK| BEIN SPORT",BEIN SPORT 1 EN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=http://dinoon.sbs/c/
@@ -162,7 +164,9 @@ http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828078&extension
 #EXTVLCOPT:http-cookie=mac=00:1A:79:A7:7C:03
 http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=828077&extension=ts&play_token=wdMaruf8Xr
 
-==========================================================================================================================
+============================================================================================================================
+
+============================================================================================================================
 
 #EXTINF:-1 tvg-id="25106" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN", AR: BEIN SPORTS 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25106
@@ -204,6 +208,8 @@ http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25116
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25117
 #EXTINF:-1 tvg-id="25121" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN", AR: BEIN SPORTS XTRA 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25121
+
+============================================================================================================================
 
 ============================================================================================================================
 
@@ -372,6 +378,218 @@ http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=193073&ex
 #EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
 http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=724019&extension=ts&play_token=TEvEFTRfty
+
+============================================================================================================================
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-id="1648352" tvg-name="┃GR┃ MAGENTA SPORT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1648352&extension=ts&play_token=yQ6zsVeFxp
+#EXTINF:-1 tvg-id="1977050" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977050&extension=ts&play_token=4ABgkrbA0Q
+#EXTINF:-1 tvg-id="1977073" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977073&extension=ts&play_token=s70myBEQJs
+#EXTINF:-1 tvg-id="1977051" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977051&extension=ts&play_token=8GTetic04t
+#EXTINF:-1 tvg-id="1977074" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977074&extension=ts&play_token=9moLLWn7mR
+#EXTINF:-1 tvg-id="1977052" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977052&extension=ts&play_token=DaKq8trwdZ
+#EXTINF:-1 tvg-id="1977075" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977075&extension=ts&play_token=jpiaZ1elKA
+#EXTINF:-1 tvg-id="1977053" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977053&extension=ts&play_token=oaeZAXRltF
+#EXTINF:-1 tvg-id="1977076" tvg-name="┃GR┃ MAGENTA SPORT LEAGUE 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT LEAGUE 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1977076&extension=ts&play_token=6lZ2N0AhWy
+#EXTINF:-1 tvg-id="1891" tvg-name="┃GR┃ MAGENTA SPORT HIGHLIGHTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT HIGHLIGHTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1891&extension=ts&play_token=CrDT6HbCZ0
+#EXTINF:-1 tvg-id="671498" tvg-name="┃GR┃ MAGENTA SPORT HIGHLIGHTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT HIGHLIGHTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671498&extension=ts&play_token=PbJNcFszbR
+#EXTINF:-1 tvg-id="174426" tvg-name="┃GR┃ MAGENTA SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174426&extension=ts&play_token=dLLAKpW3iT
+#EXTINF:-1 tvg-id="1890" tvg-name="┃GR┃ MAGENTA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1890&extension=ts&play_token=16c9FqLxrH
+#EXTINF:-1 tvg-id="671508" tvg-name="┃GR┃ MAGENTA SPORT 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671508&extension=ts&play_token=p5T92f8QcI
+#EXTINF:-1 tvg-id="174427" tvg-name="┃GR┃ MAGENTA SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174427&extension=ts&play_token=cPbZpNLmQr
+#EXTINF:-1 tvg-id="1889" tvg-name="┃GR┃ MAGENTA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1889&extension=ts&play_token=OqQm9UFoM8
+#EXTINF:-1 tvg-id="671509" tvg-name="┃GR┃ MAGENTA SPORT 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671509&extension=ts&play_token=tpuLnKLx5K
+#EXTINF:-1 tvg-id="174428" tvg-name="┃GR┃ MAGENTA SPORT 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174428&extension=ts&play_token=98uBzE5ZLD
+#EXTINF:-1 tvg-id="1888" tvg-name="┃GR┃ MAGENTA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1888&extension=ts&play_token=EsRoYygLcH
+#EXTINF:-1 tvg-id="671510" tvg-name="┃GR┃ MAGENTA SPORT 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42 
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671510&extension=ts&play_token=wIRqibuwsm
+#EXTINF:-1 tvg-id="174429" tvg-name="┃GR┃ MAGENTA SPORT 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174429&extension=ts&play_token=BirCJ7IVAJ
+#EXTINF:-1 tvg-id="1887" tvg-name="┃GR┃ MAGENTA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1887&extension=ts&play_token=JkKWKGKj8B
+#EXTINF:-1 tvg-id="671511" tvg-name="┃GR┃ MAGENTA SPORT 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671511&extension=ts&play_token=UCLnymskRj
+#EXTINF:-1 tvg-id="174430" tvg-name="┃GR┃ MAGENTA SPORT 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174430&extension=ts&play_token=10g4GHxPig
+#EXTINF:-1 tvg-id="1886" tvg-name="┃GR┃ MAGENTA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1886&extension=ts&play_token=DhYjpzSZqZ
+#EXTINF:-1 tvg-id="671512" tvg-name="┃GR┃ MAGENTA SPORT 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671512&extension=ts&play_token=5eGcIYP9yW
+#EXTINF:-1 tvg-id="174265" tvg-name="┃GR┃ MAGENTA SPORT 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 6 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174265&extension=ts&play_token=LFuwSTbqF2
+#EXTINF:-1 tvg-id="1885" tvg-name="┃GR┃ MAGENTA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1885&extension=ts&play_token=7fzSXnLUOr
+#EXTINF:-1 tvg-id="671513" tvg-name="┃GR┃ MAGENTA SPORT 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 6 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671513&extension=ts&play_token=LFWebRF5VH
+#EXTINF:-1 tvg-id="174264" tvg-name="┃GR┃ MAGENTA SPORT 7 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174264&extension=ts&play_token=IQXJRZ4oP6
+#EXTINF:-1 tvg-id="1884" tvg-name="┃GR┃ MAGENTA SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1884&extension=ts&play_token=5zj9RzPs5u
+#EXTINF:-1 tvg-id="174263" tvg-name="┃GR┃ MAGENTA SPORT 8 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 8 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=174263&extension=ts&play_token=UUtz35Inhq
+#EXTINF:-1 tvg-id="1883" tvg-name="┃GR┃ MAGENTA SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1883&extension=ts&play_token=7322Zv3XX8
+#EXTINF:-1 tvg-id="1882" tvg-name="┃GR┃ MAGENTA SPORT 9 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 9 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=1882&extension=ts&play_token=AgHye3hbm
+#EXTINF:-1 tvg-id="671507" tvg-name="┃GR┃ MAGENTA SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=671507&extension=ts&play_token=shepj6pXM8
+#EXTINF:-1 tvg-id="699599" tvg-name="┃GR┃ MAGENTA SPORT SL PASS PANATHINAIKOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PASS PANATHINAIKOS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=699599&extension=ts&play_token=RXHid9yqBF
+#EXTINF:-1 tvg-id="242084" tvg-name="┃GR┃ MAGENTA SPORT SL PANATHINAIKOS PASS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PANATHINAIKOS PASS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=242084&extension=ts&play_token=819pNOD7i3
+#EXTINF:-1 tvg-id="699598" tvg-name="┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=699598&extension=ts&play_token=g3QKv9vGWv
+#EXTINF:-1 tvg-id="242085" tvg-name="┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=242085&extension=ts&play_token=4FfJBXbiv4
+#EXTINF:-1 tvg-id="699597" tvg-name="┃GR┃ MAGENTA SPORT SL PASS AEK FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PASS AEK FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=699597&extension=ts&play_token=uQ7Qz6z3RL
+#EXTINF:-1 tvg-id="242086" tvg-name="┃GR┃ MAGENTA SPORT SL PASS AEK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png" group-title="┃GR┃ MAGENTA SPORTS",┃GR┃ MAGENTA SPORT SL PASS AEK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://mag.tiger-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:78:31:42
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:78:31:42&stream=242086&extension=ts&play_token=ZA0rizpPK0
+
+============================================================================================================================
 
 ============================================================================================================================
 
