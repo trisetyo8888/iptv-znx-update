@@ -1,39 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="827982" tvg-name="UK - HUB PREMIER 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER1.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 1 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827982&extension=ts&play_token=TTfbFg90lD
-
-#EXTINF:-1 tvg-id="827981" tvg-name="UK - HUB PREMIER 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 2 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827981&extension=ts&play_token=6NsjeojZJg
-
-#EXTINF:-1 tvg-id="827980" tvg-name="UK - HUB PREMIER 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 2 UHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827980&extension=ts&play_token=h67r5VZ6HN
-
-#EXTINF:-1 tvg-id="827979" tvg-name="UK - HUB PREMIER 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER3.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 3 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827979&extension=ts&play_token=eswSIM9nT1
-
-#EXTINF:-1 tvg-id="827978" tvg-name="UK - HUB PREMIER 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER4.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 4 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827978&extension=ts&play_token=Ad8XQCywSZ
-
-#EXTINF:-1 tvg-id="827977" tvg-name="UK - HUB PREMIER 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER5.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 5 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827977&extension=ts&play_token=dtUZeyIvdI
-
-#EXTINF:-1 tvg-id="827976" tvg-name="UK - HUB PREMIER 6 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER6.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 6 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827976&extension=ts&play_token=jlzryupKfm
-
-#EXTINF:-1 tvg-id="827975" tvg-name="UK - HUB PREMIER 7 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER7.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 7 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827975&extension=ts&play_token=76isz0N9OL
-
-#EXTINF:-1 tvg-id="827974" tvg-name="UK - HUB PREMIER 8 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER8.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 8 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827974&extension=ts&play_token=HeJQUHTMXR
-
-#EXTINF:-1 tvg-id="827973" tvg-name="UK - HUB PREMIER 9 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER9.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 9 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827973&extension=ts&play_token=og7ukiSDuj
-
-#EXTINF:-1 tvg-id="827972" tvg-name="UK - HUB PREMIER 10 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER10.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 10 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827972&extension=ts&play_token=VpXNv3B3vZ
-
-#EXTINF:-1 tvg-id="827971" tvg-name="UK - HUB PREMIER 11 FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER11.png" group-title="LIGA INGGRIS",UK - HUB PREMIER 11 FHD
-http://dinoon.sbs:80/play/live.php?mac=00:1A:79:A7:7C:03&stream=827971&extension=ts&play_token=q7L7meDMqf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314077&extension=ts&play_token=XZi758SeQ3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314078&extension=ts&play_token=6hZUHOJ5KV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314079&extension=ts&play_token=oDbxGbN5s5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314080&extension=ts&play_token=iHevOjBHnG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314081&extension=ts&play_token=MSkJfoNeDk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314082&extension=ts&play_token=K7ZexmQDUW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 7.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 7 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314083&extension=ts&play_token=d2ATPDgm8g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 8.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 8 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314084&extension=ts&play_token=dOACeYSzN0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 9.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 9 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314085&extension=ts&play_token=j1FG6bLUWp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 10.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 10 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314086&extension=ts&play_token=wrUtCx1UH6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 11 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314087&extension=ts&play_token=jMNH86QXXr
 
 ========================================================================================================================
 
