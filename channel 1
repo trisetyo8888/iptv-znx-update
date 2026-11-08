@@ -22,8 +22,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314086&ext
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png" group-title="LIGA INGGRIS",┃UK┃ HUB PREMIER 11 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1314087&extension=ts&play_token=jMNH86QXXr
 
-========================================================================================================================
-
 #EXTINF:-1 tvg-id="228727" tvg-name="┃BG┃ MAX SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png" group-title="LIGA ITALIA",┃BG┃ MAX SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=http://nexusconnects.org:80/c/
@@ -44,8 +42,6 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=228725&ex
 #EXTVLCOPT:http-referrer=http://nexusconnects.org:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C8:4D:62&stream=228724&extension=ts&play_token=6S465fmJAs
-
-========================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ITSKYCALCIO.png" group-title="LIGA ITALIA",┃IT┃ SKY CALCIO 251 fHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177769&extension=ts&play_token=p9PpCSwWU4
@@ -105,9 +101,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1906957&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1906958&extension=ts&play_token=HqIeRe0W0G
 #EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",┃FR┃ DAZN LALIGA 10 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1906959&extension=ts&play_token=lGZPQXVjM3
-
-========================================================================================================================
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA.png" group-title="LIGA JERMAN",┃DE┃ SKY SPORT BUNDESLIGA FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149303&extension=ts&play_token=qHpSy4M9W5
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA 1.png" group-title="LIGA JERMAN",┃DE┃ SKY SPORT BUNDESLIGA 1 FHD
@@ -130,9 +123,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149311&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149312&extension=ts&play_token=8dXLcHCayD
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA 10.png" group-title="LIGA JERMAN",┃DE┃ SKY SPORT BUNDESLIGA 10 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149313&extension=ts&play_token=FVCgJ0eY59
-
-========================================================================================================================
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 1 |
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258786&extension=ts&play_token=7X4FY5tbKC
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 2 |
@@ -185,9 +175,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258826&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258827&extension=ts&play_token=tI0rfGb1Pi
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 10 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258828&extension=ts&play_token=EbptLTvneR
-
-========================================================================================================================
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="LIGA BELANDA",┃NL┃ ESPN 1 4K
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=548074&extension=ts&play_token=y1cROt8hLC
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="LIGA BELANDA",┃NL┃ ESPN 2 4K
@@ -204,6 +191,16 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312718&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=760963&extension=ts&play_token=XfhppvXUio
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT DIGITAL FUSSBALL.png" group-title="LIGA BELANDA",┃DE┃ SPORT DIGITAL FUSSBALL HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149501&extension=ts&play_token=qXrh4lN2vX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTMOTOGP.png" group-title="┃MOTOGP┃",┃IT┃ SKY SPORT MOTOGP HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167177&extension=ts&play_token=2PJephwOFV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTMOTOGP.png" group-title="┃MOTOGP┃",┃IT┃ SKY SPORT MOTOGP FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177700&extension=ts&play_token=IKqyCHdF75
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="┃MOTOGP┃",┃MOTOGP┃ TNT SPORTS 2 FHD HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091514&extension=ts&play_token=UHer3n8GpI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="┃MOTOGP┃",┃MOTOGP┃ TNT SPORT 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091517&extension=ts&play_token=yQmITw7MCL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 506.png" group-title="┃MOTOGP┃",┃MOTOGP┃ FOX SPORTS 506 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091519&extension=ts&play_token=7Nu5SLi119
 
 
 
