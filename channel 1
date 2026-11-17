@@ -123,58 +123,40 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149311&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149312&extension=ts&play_token=8dXLcHCayD
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT BUNDESLIGA/SKY SPORT BUNDESLIGA 10.png" group-title="LIGA JERMAN",┃DE┃ SKY SPORT BUNDESLIGA 10 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149313&extension=ts&play_token=FVCgJ0eY59
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 1 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258786&extension=ts&play_token=7X4FY5tbKC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 2 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258787&extension=ts&play_token=bJ1ZLl1OHK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 3 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258788&extension=ts&play_token=Ibh18d7mOg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 4 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258789&extension=ts&play_token=fCQZwQFd0n
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 5 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258790&extension=ts&play_token=wSOX96apTQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 6 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258791&extension=ts&play_token=yhaRUSBzrs
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 7 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258792&extension=ts&play_token=X0yDkL9JuW
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 8 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258793&extension=ts&play_token=idOTcnfA7P
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 9 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258794&extension=ts&play_token=TNicokRpFt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+ PPV",┃FR┃ LIGUE 1+ - PPV 10 |
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258795&extension=ts&play_token=ZVuN2oMEeu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 1 FHD
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 1 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258813&extension=ts&play_token=WnXwaTZnTS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 1 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 1 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258814&extension=ts&play_token=X4swFJcWVo
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 2 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 2 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258815&extension=ts&play_token=WJuiStnQn7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 2 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258816&extension=ts&play_token=i3F85cAkf9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 3 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 3 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258817&extension=ts&play_token=ErXbF3xNND
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 3 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 3 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258818&extension=ts&play_token=RZWoWEL4Zm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 4 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 4 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258819&extension=ts&play_token=VKBx1xd5Ge
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 4 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 4 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258820&extension=ts&play_token=97IupoC62J
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 5 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 5 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258821&extension=ts&play_token=9B7Ad8xOcV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 5 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 5 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258822&extension=ts&play_token=YVcKndcVmw
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 6 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 6 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258823&extension=ts&play_token=oGH9Ywuqw1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 6 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 6 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258824&extension=ts&play_token=9HvzpeDQUT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 7 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 7 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258825&extension=ts&play_token=PrHXdyTlTR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 8 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 8 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258826&extension=ts&play_token=K9DUfpN8MC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 9 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 9 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258827&extension=ts&play_token=tI0rfGb1Pi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="┃FR┃ LIGUE 1+",┃FR┃ LIGUE 1+ 10 FHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LIGUE 1+/LIGUE 1+.png" group-title="LIGA PERANCIS",┃FR┃ LIGUE 1+ 10 FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1258828&extension=ts&play_token=EbptLTvneR
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="LIGA BELANDA",┃NL┃ ESPN 1 4K
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=548074&extension=ts&play_token=y1cROt8hLC
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ESPNHD.png" group-title="LIGA BELANDA",┃NL┃ ESPN 2 4K
@@ -201,6 +183,76 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091514&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091517&extension=ts&play_token=yQmITw7MCL
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 506.png" group-title="┃MOTOGP┃",┃MOTOGP┃ FOX SPORTS 506 HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1091519&extension=ts&play_token=7Nu5SLi119
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149423&extension=ts&play_token=YuyczIx0HT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149422&extension=ts&play_token=R4u4sRfaLM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 FHD DOLBY 5.1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149421&extension=ts&play_token=nQ41lXiDle
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149420&extension=ts&play_token=mLx209jMvS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=760942&extension=ts&play_token=ZxkkQoIukK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃FORMULA1┃",┃NL┃ VIAPLAY FORMULE 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=225722&extension=ts&play_token=5hFmyqg241
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃FORMULA1┃",┃NL┃ VIAPLAY FORMULE 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=225721&extension=ts&play_token=l4BuVDduPb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃FORMULA1┃",┃NL┃ VIAPLAY FORMULE 2 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=749921&extension=ts&play_token=xraFi2JPbs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAYHD.png" group-title="┃FORMULA1┃",┃NL┃ VIAPLAY FORMULE 3 HD |
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=749922&extension=ts&play_token=w4RmP3VzgL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTF1HD.png" group-title="┃FORMULA1┃",┃DE┃ SKY SPORT F1 RAW
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=760959&extension=ts&play_token=VGjZrzZlLG
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="┃TENNIS┃",┃DE┃ SKY SPORT TENNIS FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149433&extension=ts&play_token=bbWsLzJo4X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png" group-title="┃TENNIS┃",┃DE┃ SKY SPORT TENNIS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1149459&extension=ts&play_token=S4HkvgdJyl
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png" group-title="┃TENNIS┃",┃UK┃ SKY SPORTS TENNIS RAW 50FPS
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312004&extension=ts&play_token=DQ2yppe70u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="┃TENNIS┃",┃UK┃ SKY SPORTS TENNIS HEVC FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312026&extension=ts&play_token=5Tbpj2AZRA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="┃TENNIS┃",┃UK┃ SKY SPORTS TENNIS HEVC HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312043&extension=ts&play_token=R8otz7UPlG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="┃TENNIS┃",┃UK┃ SKY SPORTS TENNIS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312186&extension=ts&play_token=oHu8kXKERd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTTENNIS.png" group-title="┃TENNIS┃",┃UK┃ SUPERSPORT TENNIS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=396878&extension=ts&play_token=v67RswLVKh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Supertennis_logo.png" group-title="┃TENNIS┃",┃IT┃ SUPER TENNIS 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=228924&extension=ts&play_token=EXuUh03MYM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858523&extension=ts&play_token=0lLjIxS7ph
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel 2.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858522&extension=ts&play_token=FLLdOVcMmU
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858688&extension=ts&play_token=vVPETN4nJu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858687&extension=ts&play_token=jPHfu6oTDU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858686&extension=ts&play_token=NlzJpCsyem
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858685&extension=ts&play_token=QAIfegPPGr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858684&extension=ts&play_token=ha8OblsC21
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858683&extension=ts&play_token=OAKfK6flYI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858682&extension=ts&play_token=mulnyW2pOH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 8 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858681&extension=ts&play_token=39OWC1VOMe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png" group-title="┃TENNIS┃",┃USA┃ TENNIS CHANNEL PLUS 9 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858680&extension=ts&play_token=ahuG107HA2
+
+
+
+
+
+
+
 
 
 
