@@ -248,6 +248,39 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858681&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858680&extension=ts&play_token=ahuG107HA2
 
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png" group-title="┃NBA┃",┃IT┃ SKY SPORT NBA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177692&extension=ts&play_token=vGluq6fB0Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png" group-title="┃NBA┃",┃IT┃ SKY SPORT NBA SD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167337&extension=ts&play_token=64lh0aAUm3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NBA_TV_II.png" group-title="┃NBA┃",┃TR┃ NBA TV 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=18632&extension=ts&play_token=7XymXB2zz5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NBA_TV_II.png" group-title="┃NBA┃",┃TR┃ NBA TV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=698&extension=ts&play_token=c2UnUqjS9X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/NBA TV.png" group-title="┃NBA┃",┃AF┃ NBA TV
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=958662&extension=ts&play_token=dLMK5cPuIu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/URUGUAY/nbatv.png" group-title="┃NBA┃",┃URY┃ NBA TV International HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=374111&extension=ts&play_token=9RQ8V8vdd2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025515&extension=ts&play_token=DbAz5J5iBc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025514&extension=ts&play_token=YV7wzwb1Mk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025513&extension=ts&play_token=Z8rI2uv3T9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025512&extension=ts&play_token=XOcZYBtliJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025511&extension=ts&play_token=mNH0ZBv27x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025510&extension=ts&play_token=qQFUwWr0OO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025509&extension=ts&play_token=ZYz35P0Pwf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025508&extension=ts&play_token=zyJ18nwROo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025507&extension=ts&play_token=5n7NiMaS0s
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025506&extension=ts&play_token=YO9By41XMh
+
 
 
 
