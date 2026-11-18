@@ -313,9 +313,41 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365359&ext
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 15
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365360&extension=ts&play_token=0o29LU9Nfm
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="┃NFL┃",┃UK┃ SKY SPORTS ACTION / NFL HEVC FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312027&extension=ts&play_token=aLR0wyqcHq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="┃NFL┃",┃UK┃ SKY SPORTS ACTION / NFL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1312180&extension=ts&play_token=DLvsNBuh66
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="┃NFL┃",┃UK┃ SKY SPORTS ACTION / NFL FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=394547&extension=ts&play_token=28AMg8QjJW
 
-
-
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/nfl network.png" group-title="┃NFL┃",┃USA┃ NFL NETWORK
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858535&extension=ts&play_token=Apij2wWZ08
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/nfl channel.png" group-title="┃NFL┃",┃USA┃ NFL CHANNEL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858534&extension=ts&play_token=eYmQx94aEE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/nfl red tv.png" group-title="┃NFL┃",┃USA┃ NFL RED ZONE
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858651&extension=ts&play_token=JG4uD9wv8O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891975&extension=ts&play_token=qjqqA7w0tz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891976&extension=ts&play_token=LxW5ZNEcTP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891977&extension=ts&play_token=yDobtzWdJk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891978&extension=ts&play_token=IxEfUoytxS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891979&extension=ts&play_token=PJxRql1aiS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891980&extension=ts&play_token=mFWIrBQbi3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891981&extension=ts&play_token=6EbcxULnEb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891982&extension=ts&play_token=g5tdtu3enD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891983&extension=ts&play_token=9URNdmcnzu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891984&extension=ts&play_token=HZM2xRp4zt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891985&extension=ts&play_token=1vHvRDIYpb
 
 
 
