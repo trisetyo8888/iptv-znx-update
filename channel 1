@@ -252,14 +252,15 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858680&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177692&extension=ts&play_token=vGluq6fB0Q
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png" group-title="┃NBA┃",┃IT┃ SKY SPORT NBA SD
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167337&extension=ts&play_token=64lh0aAUm3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NBA_TV_II.png" group-title="┃NBA┃",┃TR┃ NBA TV 4K
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=18632&extension=ts&play_token=7XymXB2zz5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NBA_TV_II.png" group-title="┃NBA┃",┃TR┃ NBA TV HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=698&extension=ts&play_token=c2UnUqjS9X
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/NBA TV.png" group-title="┃NBA┃",┃AF┃ NBA TV
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=958662&extension=ts&play_token=dLMK5cPuIu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/URUGUAY/nbatv.png" group-title="┃NBA┃",┃URY┃ NBA TV International HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=374111&extension=ts&play_token=9RQ8V8vdd2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png" group-title="┃NBA┃",┃IT┃ SKY SPORT NBA HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1167176&extension=ts&play_token=Xs44frtaSM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png" group-title="┃NBA┃",┃IT┃ SKY SPORT NBA FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=177701&extension=ts&play_token=JGLpKKPofZ
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/nba tv.png" group-title="┃NBA┃",┃USA┃ NBA TV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858533&extension=ts&play_token=7uiqskhHkE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/nba bet.png" group-title="┃NBA┃",┃USA┃ NBA BET HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=858532&extension=ts&play_token=Zfvm8nuyro
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 1
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025515&extension=ts&play_token=DbAz5J5iBc
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 2
@@ -281,6 +282,36 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025507&ext
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃NBA┃",┃DE┃ DAZN NBA 10
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1025506&extension=ts&play_token=YO9By41XMh
 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365346&extension=ts&play_token=fvyEYEuTCR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365347&extension=ts&play_token=PXsHl7jwRY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365348&extension=ts&play_token=33DqXzVscq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365349&extension=ts&play_token=7jzvqz3KEK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365350&extension=ts&play_token=48Ghgt1Yix
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365351&extension=ts&play_token=2rQXQfea7Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365352&extension=ts&play_token=PlkjqzZhMl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365353&extension=ts&play_token=FeeY01DgUO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365354&extension=ts&play_token=8WQqhakalh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 10
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365355&extension=ts&play_token=f0ph71ggJg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 11
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365356&extension=ts&play_token=mgepdFapxy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 12
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365357&extension=ts&play_token=ojaPabZbW3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 13
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365358&extension=ts&play_token=BPxj4GRmSG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 14
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365359&extension=ts&play_token=jUF9pQdCXW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃NBA┃",┃USA┃ NBA LEAGUE PASS 15
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=1365360&extension=ts&play_token=0o29LU9Nfm
 
 
 
