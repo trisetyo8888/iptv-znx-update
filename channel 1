@@ -349,7 +349,16 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891984&exte
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN NFL/DAZN NFL INFO.png" group-title="┃NFL┃",┃DE┃ DAZN NFL 10
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=891985&extension=ts&play_token=1vHvRDIYpb
 
-
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ESPN.png" group-title="ESPN",NL| ESPN FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1282754&extension=ts&play_token=Rptp0zELiL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ESPN.png" group-title="ESPN",NL| ESPN 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1634106&extension=ts&play_token=5tTAc23VJ2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ESPN2.png" group-title="ESPN",NL| ESPN 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1282753&extension=ts&play_token=rgtN2361Ae
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ESPN-3.png" group-title="ESPN",NL| ESPN 3 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1282752&extension=ts&play_token=MUH7DVlxWc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ESPN-3.png" group-title="ESPN",NL| ESPN 4 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:1C:05:36&stream=1282751&extension=ts&play_token=RFS5BDSkKZ
 
 
 
